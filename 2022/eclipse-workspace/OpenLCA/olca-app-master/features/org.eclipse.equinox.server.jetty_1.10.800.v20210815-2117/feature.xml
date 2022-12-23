@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.equinox.server.jetty"
+      label="%featureName"
+      version="1.10.800.v20210815-2117"
+      provider-name="%providerName">
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="jakarta.servlet-api"
+         download-size="96"
+         install-size="181"
+         version="4.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.http.jetty"
+         download-size="28"
+         install-size="53"
+         version="3.8.0.v20210414-1616"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.http.servlet"
+         download-size="229"
+         install-size="522"
+         version="1.7.100.v20210311-1631"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jetty.http"
+         download-size="243"
+         install-size="495"
+         version="10.0.6"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jetty.io"
+         download-size="194"
+         install-size="394"
+         version="10.0.6"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jetty.security"
+         download-size="126"
+         install-size="266"
+         version="10.0.6"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jetty.server"
+         download-size="769"
+         install-size="1640"
+         version="10.0.6"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jetty.servlet"
+         download-size="171"
+         install-size="376"
+         version="10.0.6"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.jetty.util"
+         download-size="561"
+         install-size="1115"
+         version="10.0.6"
+         unpack="false"/>
+         
+   <plugin
+         id="org.eclipse.jetty.util.ajax"
+         download-size="68"
+         install-size="139"
+         version="10.0.6"
+         unpack="false"/>
+
+</feature>

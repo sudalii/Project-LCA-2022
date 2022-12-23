@@ -1,0 +1,44 @@
+Connection successful
+com.mysql.cj.jdbc.ConnectionImpl@7a5ceedd
+SELECT * FROM user_info
+
+
+----------------------------User DB Infomation(in HTML)----------------------------
+id: 1
+project_name: Project1031
+product_name: Product1031
+fu: 기준흐름 테스트
+product_amount: 1.000000
+
+21:45:54.124 [32m[main][0;39m [31mWARN[0;39m org.openlca.nativelib.NativeLib - could not find native libraries in classpath and C:\Users\KETI\openLCA-data-1.4
+21:45:54.131 [32m[main][0;39m [34mINFO[0;39m org.openlca.core.database.Derby - initialize database folder C:\Users\KETI\openLCA-data-1.4\databases\test1012_copy, create=false
+
+
+---------------------------openLCA DB Open & Connect User Input---------------------------
+exchanges: 
+Output flows - Pellet (PRODUCT_FLOW) : 790.51kg
+Input flows - Water (fresh water) (ELEMENTARY_FLOW) : 0.19187kg
+getForName(): RootEntity [type=Process, refId=26c22773-3780-4dc2-9e04-a70dd72b2d68, name=pellet]
+targetFlowPropertyFactor: Entity [type=FlowPropertyFactor, id=1924052]
+
+
+product name: pellet / target amount: 1.0kg / LCIA method: CML-IA baseline
+
+
+
+----------------------------------LCA Calc Result----------------------------------
+The total inventory result of the given flow - Top 10:
+Packaging waste  -> 1.26500614
+Waste, industrial  -> 0.20410191
+Carbon dioxide  -> 0.00569949
+Coal, hard  -> 0.00205450
+Waste, unspecified  -> 0.00053530
+Natural gas leakage  -> 0.00026321
+Oil, crude, in ground  -> 0.00025443
+Water (fresh water)  -> 0.00024272
+Dissolved solids  -> 0.00003690
+Sulfur oxides  -> 0.00001906
+
+Global warming (GWP100a)  -> 0.005815 kg CO2 eq
+
+21:45:57.246 [32m[main][0;39m [34mINFO[0;39m org.openlca.core.database.Derby - database closed

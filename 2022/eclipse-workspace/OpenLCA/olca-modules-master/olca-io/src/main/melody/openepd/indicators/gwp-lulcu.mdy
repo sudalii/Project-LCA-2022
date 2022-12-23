@@ -1,0 +1,49 @@
+let .climate_change = {
+  ahead {
+    any of <char>;
+    "climate";
+  }
+  ahead {
+    any of <char>;
+    "change";
+  }
+  any of <char>;
+}
+
+
+let .global_warming = {
+  ahead {
+    any of <char>;
+    "global";
+  }
+  ahead {
+    any of <char>;
+    "warming";
+  }
+  any of <char>;
+}
+
+let .gwp = {
+  any of <char>;
+  either {
+    <start>;
+    some of not <word>;
+  }
+  "gwp";
+  either {
+    <end>;
+    some of not <word>;
+  }
+  any of <char>;
+}
+
+either {
+  .climate_change;
+  .global_warming;
+  .gwp;
+}
+
+either {
+  "land";
+  "luluc";
+}

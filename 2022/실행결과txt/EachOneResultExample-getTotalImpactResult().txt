@@ -1,0 +1,2078 @@
+16:37:20.772 [32m[main][0;39m [34mINFO[0;39m org.openlca.core.database.Derby - initialize database folder C:\Users\KETI\openLCA-data-1.4\databases\test1012, create=false
+Calculated result for 26c22773-3780-4dc2-9e04-a70dd72b2d68
+
+Crustal scarcity indicator;0.08266;kg Si eq
+Climate change - fossil;0.00583;kg CO2 eq
+Climate change - land use and land transformation;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Climate change - CO2 uptake;0.00000;kg CO2 eq
+Freshwater ecotoxicity;0.00000;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Freshwater ecotoxicity;0.05068;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Carcinogenics;0.00000;CTUh
+Acidification;0.00003;kg SO2 eq
+Smog;0.00035;kg O3 eq
+Global warming;0.00581;kg CO2 eq
+Non carcinogenics;0.00000;CTUh
+Respiratory effects;0.00000;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+Fossil fuel depletion;0.00168;MJ surplus
+Eutrophication;0.00000;kg N eq
+Ecotoxicity;0.00004;CTUe
+Zinc;0.00000;kg
+Nuclides;0.00000;kBq
+Actinides (water);0.00000;kBq
+Carbon, biogenic, fixed;0.00000;kg
+Lead;0.00000;kg
+Oils, unspecified;0.00000;kg
+Freshwater;0.00000;m3
+Particulates, >2.5 um and <10;0.00000;kg
+Carbon monoxide;0.00000;kg
+Particulates >10 um;0.00000;kg
+Particulates;0.00000;kg
+Aerosole;0.00000;kBq
+Radon (+ radium);0.00000;kBq
+Dinitrogen monoxide;0.00000;kg
+Actinides (air);0.00000;kBq
+Tritium;0.00000;kBq
+Heat, waste;0.00000;MJ
+Radium;0.00000;kBq
+Methane;0.00000;kg
+Water;0.00000;m3
+Noble gas;0.00000;kBq
+Cadmium;0.00000;kg
+Nitrogen oxides;0.00001;kg
+Sulphur dioxide;0.00000;kg
+Particulates, <2.5 um;0.00000;kg
+NMVOC;0.00000;kg
+Carbon dioxide, fossil;0.00570;kg
+BOD;0.00000;kg
+Land occupation;0.00000;m2a
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00002;kg SO2 eq
+Ozone formation, Terrestrial ecosystems;0.00001;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.00112;kg oil eq
+Ozone formation, Human health;0.00001;kg NOx eq
+Water consumption;0.00000;m3
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Fine particulate matter formation;0.00000;kg PM2.5 eq
+Global warming;0.00605;kg CO2 eq
+Mineral resource scarcity;0.00001;kg Cu eq
+Terrestrial ecotoxicity;0.00009;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Land use;0.00000;m2a crop eq
+Freshwater eutrophication;0.00000;kg P eq
+Terrestrial ecotoxicity;0.00020;kg 1,4-DCB
+Water consumption;0.00000;m3
+Human non-carcinogenic toxicity;0.00001;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Mineral resource scarcity;0.00000;kg Cu eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00002;kg SO2 eq
+Fine particulate matter formation;0.00001;kg PM2.5 eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Global warming;0.00585;kg CO2 eq
+Fossil resource scarcity;0.00112;kg oil eq
+Ozone formation, Human health;0.00001;kg NOx eq
+Ozone formation, Terrestrial ecosystems;0.00001;kg NOx eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Fine particulate matter formation;0.00001;kg PM2.5 eq
+Water consumption;0.00000;m3
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Global warming;0.00572;kg CO2 eq
+Freshwater eutrophication;0.00000;kg P eq
+Fossil resource scarcity;0.00112;kg oil eq
+Ozone formation, Human health;0.00001;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Marine ecotoxicity;0.00282;kg 1,4-DCB
+Ozone formation, Terrestrial ecosystems;0.00001;kg NOx eq
+Human non-carcinogenic toxicity;0.00244;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Terrestrial ecotoxicity;0.00022;kg 1,4-DCB
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00002;kg SO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.00019;USD2013
+Marine eutrophication;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Fine particulate matter formation;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Ionizing radiation;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Land use;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Human carcinogenic toxicity;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Freshwater eutrophication;0.00000;species.yr
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Freshwater ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Human health;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Fossil resource scarcity;0.00019;USD2013
+Ionizing radiation;0.00000;DALY
+Marine ecotoxicity;0.00000;species.yr
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Stratospheric ozone depletion;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Mineral resource scarcity;0.00000;USD2013
+Ionizing radiation;0.00000;DALY
+Fossil resource scarcity;0.00019;USD2013
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Resources;0.00000;$ surplus
+Ecosystem Quality;0.00000;species*year
+Human Health;0.00000;DALY
+WSI;0.00000;m3
+Ecosystem Quality;0.00000;PAF*m2yr
+Human Health;0.00000;DALY
+Resources;0.00000;MJ surplus
+HH, agricultural water scarcity;0.00000;DALY
+HH, domestic water scarcity;0.00000;DALY
+IPCC GWP 20a;0.00606;kg CO2 eq
+IPCC GWP 100a;0.00583;kg CO2 eq
+Aquatic acidification;0.00001;kg SO2 eq
+Aquatic ecotoxicity;0.04386;kg TEG water
+Respiratory inorganics;0.00000;kg PM2.5 eq
+Carcinogens;0.00000;kg C2H3Cl eq
+Respiratory organics;0.00000;kg C2H4 eq
+Non-carcinogens;0.00000;kg C2H3Cl eq
+Aquatic eutrophication;0.00000;kg PO4 P-lim
+Mineral extraction;0.00000;MJ surplus
+Global warming;0.00573;kg CO2 eq
+Terrestrial ecotoxicity;0.00154;kg TEG soil
+Non-renewable energy;0.13147;MJ primary
+Ozone layer depletion;0.00000;kg CFC-11 eq
+Ionizing radiation;0.00000;Bq C-14 eq
+Terrestrial acid/nutri;0.00008;kg SO2 eq
+Land occupation;0.00000;m2org.arable
+WSI;0.00000;m3
+Low vision;0.00000;PersonYr
+Gravation of angina pectoris;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Drinking water;0.00037;kg
+COPD severe;0.00000;PersonYr
+YOLL;0.00000;PersonYr
+Separations;0.00000;case
+Malnutrition;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Wood growth capacity;-0.00004;kg
+Depletion of abiotic resources;0.00017;kg
+Crop growth capacity;0.00007;kg
+Asthma cases;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Production capacity for fruit&vegetables;0.00001;kg
+Poisoning;0.00000;PersonYr
+Irrigation water;0.00073;kg
+Diarrhea;0.00000;PersonYr
+Fish&meat production capacity;0.00000;kg
+Cancer;0.00000;PersonYr
+Skin cancer;0.00000;PersonYr
+Depletion of abiotic resources;0.00017;kg
+Drinking water;0.00032;kg
+Irrigation water;0.00065;kg
+Malnutrition;0.00000;PersonYr
+Wood growth capacity;-0.00004;kg
+Fish&meat production capacity;0.00000;kg
+Gravation of angina pectoris;0.00000;PersonYr
+Diarrhea;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Crop growth capacity;0.00007;kg
+Production capacity for fruit&vegetables;0.00001;kg
+Low vision;0.00000;PersonYr
+Poisoning;0.00000;PersonYr
+Separations;0.00000;case
+YOLL;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Cancer;0.00000;PersonYr
+COPD severe;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Skin cancer;0.00000;PersonYr
+Asthma cases;0.00000;PersonYr
+Acidification (fate not incl.);0.00001;kg SO2 eq
+Abiotic depletion, fossil fuels;0.01099;MJ
+Ozone layer depletion (ODP) (optional);0.00000;kg CFC-11 eq
+Eutrophication;0.00000;kg PO4--- eq
+Abiotic depletion, elements;0.00000;kg Sb eq
+Global warming (GWP100a);0.00582;kg CO2 eq
+Photochemical oxidation;0.00002;kg NMVOC
+Water scarcity;0.00001;m3 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Water depletion;0.00000;m3
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DB eq
+Climate change;0.00583;kg CO2 eq
+Ionising radiation;0.00000;kBq U235 eq
+Human toxicity;0.00002;kg 1,4-DB eq
+Urban land occupation;0.00000;m2a
+Photochemical oxidant formation;0.00002;kg NMVOC
+Agricultural land occupation;0.00000;m2a
+Terrestrial acidification;0.00003;kg SO2 eq
+Fossil depletion;0.00116;kg oil eq
+Particulate matter formation;0.00001;kg PM10 eq
+Natural land transformation;0.00000;m2
+Ozone depletion;0.00000;kg CFC-11 eq
+Marine eutrophication;0.00000;kg N eq
+Metal depletion;0.00002;kg Fe eq
+Marine ecotoxicity;0.00000;kg 1,4-DB eq
+Acidification;0.00004;mol H+ eq
+Ozone depletion;0.00000;kg CFC11 eq
+Human toxicity, cancer;0.00000;CTUh
+Human toxicity, cancer - organics;0.00000;CTUh
+Ecotoxicity, freshwater - metals;0.00247;CTUe
+Eutrophication, terrestrial;0.00006;mol N eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Photochemical ozone formation;0.00002;kg NMVOC eq
+Ecotoxicity, freshwater - organics;0.00012;CTUe
+Resource use, fossils;0.09157;MJ
+Particulate matter;0.00000;disease inc.
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Ecotoxicity, freshwater;0.00499;CTUe
+Climate change - Fossil;0.00586;kg CO2 eq
+Eutrophication, marine;0.00001;kg N eq
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Human toxicity, non-cancer;0.00000;CTUh
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, cancer - metals;0.00000;CTUh
+Land use;0.00000;Pt
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change;0.00586;kg CO2 eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Water use;0.00001;m3 depriv.
+Ionising radiation;0.00000;kBq U-235 eq
+Ecotoxicity, freshwater - inorganics;0.00239;CTUe
+Land use;0.00000;Pt
+Climate change - fossil;0.00586;kg CO2 eq
+Climate change;0.00586;kg CO2 eq
+Resource use, energy carriers;0.12896;MJ
+Non-cancer human health effects;0.00000;CTUh
+Ecotoxicity freshwater;0.00004;CTUe
+Respiratory inorganics;0.00000;disease inc.
+Resource use, mineral and metals;0.00000;kg Sb eq
+Acidification terrestrial and freshwater;0.00004;mol H+ eq
+Water scarcity;0.00001;m3 depriv.
+Eutrophication terrestrial;0.00006;mol N eq
+Photochemical ozone formation, HH;0.00002;kg NMVOC eq
+Ozone depletion;0.00000;kg CFC11 eq
+Cancer human health effects;0.00000;CTUh
+Eutrophication freshwater;0.00000;kg P eq
+Eutrophication marine;0.00001;kg N eq
+Ionising radiation, HH;0.00000;kBq U-235 eq
+Climate change - land use and transform.;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Photochemical ozone formation;0.00002;kg NMVOC eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Ecotoxicity, freshwater;0.00499;CTUe
+Acidification;0.00004;mol H+ eq
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Eutrophication, terrestrial;0.00006;mol N eq
+Particulate matter;0.00000;disease inc.
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Ecotoxicity, freshwater - inorganics;0.00239;CTUe
+Human toxicity, cancer - metals;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, non-cancer;0.00000;CTUh
+Resource use, fossils;0.12896;MJ
+Water use;0.00001;m3 depriv.
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Ionising radiation;0.00000;kBq U-235 eq
+Land use;0.00000;Pt
+Ecotoxicity, freshwater - metals;0.00247;CTUe
+Human toxicity, cancer;0.00000;CTUh
+Ecotoxicity, freshwater - organics;0.00012;CTUe
+Human toxicity, cancer - organics;0.00000;CTUh
+Eutrophication, marine;0.00001;kg N eq
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Climate change;0.00586;kg CO2 eq
+Ozone depletion;0.00000;kg CFC11 eq
+Climate change - Fossil;0.00586;kg CO2 eq
+Aquatic eutrophication EP(P);0.00000;kg P
+Global warming 100a;0.00581;kg CO2 eq
+Hazardous waste;0.00000;kg
+Human toxicity soil;0.00022;m3
+Human toxicity air;0.04228;person
+Acidification;0.00013;m2
+Radioactive waste;0.00000;kg
+Ozone formation (Human);0.00000;person.ppm.h
+Ozone depletion;0.00000;kg CFC11 eq
+Aquatic eutrophication EP(N);0.00000;kg N
+Bulk waste;0.20464;kg
+Ecotoxicity soil chronic;0.00251;m3
+Resources (all);0.00000;PR2004
+Ecotoxicity water acute;0.00101;m3
+Ozone formation (Vegetation);0.03624;m2.ppm.h
+Slags/ashes;0.00000;kg
+Human toxicity water;0.00012;m3
+Terrestrial eutrophication;0.00036;m2
+Ecotoxicity water chronic;0.00792;m3
+linear, land occupation;0.00000;points
+linear, land transformation;0.00000;points
+Natural resources (water only);0.00000;UBP
+Non renewable, primary;0.00000;MJ
+Renewable, potential;0.00000;MJ
+Non renewable, minerals;0.00000;MJ
+Renewable, water;0.00001;MJ
+Non renewable, fossil;0.01183;MJ
+Non renewable, metals;0.00000;MJ
+Renewable, solar;0.00000;MJ
+Non renewable, nuclear;0.08057;MJ
+Renewable, kinetic;0.00000;MJ
+Renewable , biomass;0.00000;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;0.01099;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, nuclear;0.08057;MJ
+Renewable, water;0.00000;MJ
+Renewable, water;0.00000;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;0.01165;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, nuclear;0.08057;MJ
+WDI;0.00000;m3
+Acidification;0.56388;H+ mmole eq
+Ozone depletion;0.00000;g CFC-11 eq
+Ecotoxicity;0.00107;g 2,4-D eq
+Global warming;5.79976;g CO2 eq
+Smog;0.02873;g NOx eq
+Indoor air quality;0.00000;g TVOC eq
+HH cancer;0.00013;g C6H6 eq
+Habitat alteration;0.00000;T&E count
+Eutrophication;0.00063;g N eq
+Water intake;0.00000;liters
+Natural resource depletion;0.00256;MJ surplus
+HH noncancer;0.01418;g C7H7 eq
+HH criteria air pollutants;0.00003;microDALYs
+Eutrophication (incl. fate);0.00002;kg PO4--- eq
+Freshwater aquatic ecotox. 500a;0.00000;kg 1,4-DB eq
+Photochem. oxid. (incl. NMVOC av.);0.00000;kg C2H4 eq
+Human toxicity 20a;0.00002;kg 1,4-DB eq
+Photochemical oxidation (MOIR, high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 100a;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Global warming 20a;0.00605;kg CO2 eq
+Human toxicity 100a;0.00002;kg 1,4-DB eq
+Human tox. (incl. PAH, Xylene & NMVOC av;0.00017;kg 1,4-DB eq
+Ozone layer depletion 25a;0.00000;kg CFC-11 eq
+Mar. aq. ecotox. (PAH, Xylene & NMVOC av;2.20763;kg 1,4-DB eq
+Ozone layer depletion 40a;0.00000;kg CFC-11 eq
+Global warming 500a;0.00000;kg CO2 eq
+Ozone layer depletion 15a;0.00000;kg CFC-11 eq
+Ozone layer depletion (incl. NMVOC av.);0.00000;kg CFC-11 eq
+Photochemical oxidation (low NOx);0.00000;kg C2H4 eq
+Photochem. oxid. (incl. NOx & NMVOC av.);-0.00000;kg C2H4 eq
+Terr. ecotox. (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Terrestrial ecotoxicity 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. infinite;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 100a;0.00001;kg 1,4-DB eq
+Freshwater sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Lower limit of net global warming;0.00587;kg CO2 eq
+Marine sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 500a;0.00000;kg 1,4-DB eq
+Human toxicity 500a;0.00002;kg 1,4-DB eq
+Marine sediment ecotox. 100a;0.00001;kg 1,4-DB eq
+Ionising radiation;0.00000;DALYs
+Ozone layer depletion 30a;0.00000;kg CFC-11 eq
+Ozone layer depletion 5a;0.00000;kg CFC-11 eq
+Freshwater sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Marine sediment ecotox. infinite;0.72709;kg 1,4-DB eq
+Abiotic depletion (elem., reserve base);0.00000;kg Sb eq
+Land competition;0.00000;m2a
+Photochemical oxidation (EBIR, low NOx);0.00000;kg C2H4 eq
+Marine sediment ecotox. 500a;0.00002;kg 1,4-DB eq
+Upper limit of net global warming;0.00587;kg CO2 eq
+Fw. aq. ecot.  (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Ozone layer depletion 20a;0.00000;kg CFC-11 eq
+Photochem. oxid. (MIR, very high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 500a;0.00000;kg 1,4-DB eq
+Global warming 100a (incl. NMVOC av.);0.00583;kg CO2 eq
+Acidification (fate not incl.);0.00001;kg SO2 eq
+Freshwater aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Ozone layer depletion 10a;0.00000;kg CFC-11 eq
+Abiotic depletion (elem., econ. reserve);0.00000;kg Sb eq
+Marine aquatic ecotox. 500a;0.00003;kg 1,4-DB eq
+Malodorous air;0.01362;m3 air
+Freshwater aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Abiotic depletion (fossil fuels);0.01099;MJ
+Global warming (GWP100a);0.00582;kg CO2 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Marine aquatic ecotoxicity;2.20763;kg 1,4-DB eq
+Photochemical oxidation;0.00000;kg C2H4 eq
+Ozone layer depletion (ODP);0.00000;kg CFC-11 eq
+Human toxicity;0.00017;kg 1,4-DB eq
+Abiotic depletion;0.00000;kg Sb eq
+Eutrophication;0.00000;kg PO4--- eq
+Acidification;0.00001;kg SO2 eq
+Fresh water aquatic ecotox.;0.00000;kg 1,4-DB eq
+WSI;0.00000;m3
+HH, distribution;0.00000;DALY
+HH, marginal;0.00000;DALY
+Water use;0.00001;m3
+Heavy metals into air;0.00697;UBP
+Carcinogenic substances into air;0.00000;UBP
+Pesticides into soil;0.00025;UBP
+Mineral resources;0.00000;UBP
+Heavy metals into soil;0.00000;UBP
+Water pollutants;0.00092;UBP
+Radioactive substances into air;0.00000;UBP
+Noise;0.00000;UBP
+Non radioactive waste to deposit;0.00000;UBP
+Energy resources;0.31408;UBP
+POP into water;0.00000;UBP
+Global warming;0.00251;UBP
+Water resources;0.00001;UBP
+Radioactive waste to deposit;0.00000;UBP
+Ozone layer depletion;0.00000;UBP
+Radioactive substances into water;0.00000;UBP
+Land use;0.00000;UBP
+Main air pollutants and PM;0.54699;UBP
+Heavy metals into water;0.00541;UBP
+Human toxicity, cancer effects;0.00000;CTUh
+Acidification;0.00001;molc H+ eq
+Water resource depletion;0.00000;m3 water eq
+Mineral, fossil & ren resource depletion;0.00000;kg Sb eq
+Human toxicity, non-cancer effects;0.00000;CTUh
+Photochemical ozone formation;0.00001;kg NMVOC eq
+Climate change;0.00581;kg CO2 eq
+Marine eutrophication;0.00001;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00004;CTUe
+Land use;0.00000;kg C deficit
+Ionizing radiation E (interim);0.00000;CTUe
+Terrestrial eutrophication;0.00006;molc N eq
+Ionizing radiation HH;0.00000;kBq U235 eq
+Particulate matter;0.00000;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+IPCC 2021 AGWP 20;0.00015;pW m^-2 yr 
+IPCC 2021 CGTP 50;0.01127;yr*kg CO2 eq
+IPCC 2021 AGTP 50;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 20;0.00604;kg CO2 eq
+IPCC 2021 GTP 50;0.00575;kg CO2 eq
+IPCC 2021 GWP 100;0.00582;kg CO2 eq
+IPCC 2021 AGTP 100;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 100 (according to UNFCCC/Kyoto Protocol);0.00582;kg CO2 eq
+IPCC 2021 CGTP 100;0.01371;yr*kg CO2 eq
+IPCC 2021 AGWP 500;0.00180;pW m^-2 yr 
+IPCC 2021 AGWP 100;0.00052;pW m^-2 yr 
+IPCC 2021 GWP 500;0.00573;kg CO2 eq
+IPCC 2021 GTP 100;0.00573;kg CO2 eq
+Calculated result for 26c22773-3780-4dc2-9e04-a70dd72b2d68
+
+Crustal scarcity indicator;0.06535;kg Si eq
+Climate change - fossil;0.00461;kg CO2 eq
+Climate change - land use and land transformation;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Climate change - CO2 uptake;0.00000;kg CO2 eq
+Freshwater ecotoxicity;0.00000;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Freshwater ecotoxicity;0.04006;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Carcinogenics;0.00000;CTUh
+Acidification;0.00002;kg SO2 eq
+Smog;0.00027;kg O3 eq
+Global warming;0.00459;kg CO2 eq
+Non carcinogenics;0.00000;CTUh
+Respiratory effects;0.00000;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+Fossil fuel depletion;0.00133;MJ surplus
+Eutrophication;0.00000;kg N eq
+Ecotoxicity;0.00003;CTUe
+Zinc;0.00000;kg
+Nuclides;0.00000;kBq
+Actinides (water);0.00000;kBq
+Carbon, biogenic, fixed;0.00000;kg
+Lead;0.00000;kg
+Oils, unspecified;0.00000;kg
+Freshwater;0.00000;m3
+Particulates, >2.5 um and <10;0.00000;kg
+Carbon monoxide;0.00000;kg
+Particulates >10 um;0.00000;kg
+Particulates;0.00000;kg
+Aerosole;0.00000;kBq
+Radon (+ radium);0.00000;kBq
+Dinitrogen monoxide;0.00000;kg
+Actinides (air);0.00000;kBq
+Tritium;0.00000;kBq
+Heat, waste;0.00000;MJ
+Radium;0.00000;kBq
+Methane;0.00000;kg
+Water;0.00000;m3
+Noble gas;0.00000;kBq
+Cadmium;0.00000;kg
+Nitrogen oxides;0.00001;kg
+Sulphur dioxide;0.00000;kg
+Particulates, <2.5 um;0.00000;kg
+NMVOC;0.00000;kg
+Carbon dioxide, fossil;0.00451;kg
+BOD;0.00000;kg
+Land occupation;0.00000;m2a
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00002;kg SO2 eq
+Ozone formation, Terrestrial ecosystems;0.00001;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.00088;kg oil eq
+Ozone formation, Human health;0.00001;kg NOx eq
+Water consumption;0.00000;m3
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Fine particulate matter formation;0.00000;kg PM2.5 eq
+Global warming;0.00478;kg CO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Terrestrial ecotoxicity;0.00007;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Land use;0.00000;m2a crop eq
+Freshwater eutrophication;0.00000;kg P eq
+Terrestrial ecotoxicity;0.00016;kg 1,4-DCB
+Water consumption;0.00000;m3
+Human non-carcinogenic toxicity;0.00001;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Mineral resource scarcity;0.00000;kg Cu eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00002;kg SO2 eq
+Fine particulate matter formation;0.00001;kg PM2.5 eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Global warming;0.00462;kg CO2 eq
+Fossil resource scarcity;0.00088;kg oil eq
+Ozone formation, Human health;0.00001;kg NOx eq
+Ozone formation, Terrestrial ecosystems;0.00001;kg NOx eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Fine particulate matter formation;0.00001;kg PM2.5 eq
+Water consumption;0.00000;m3
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Global warming;0.00452;kg CO2 eq
+Freshwater eutrophication;0.00000;kg P eq
+Fossil resource scarcity;0.00088;kg oil eq
+Ozone formation, Human health;0.00001;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Marine ecotoxicity;0.00223;kg 1,4-DCB
+Ozone formation, Terrestrial ecosystems;0.00001;kg NOx eq
+Human non-carcinogenic toxicity;0.00193;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Terrestrial ecotoxicity;0.00017;kg 1,4-DCB
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00002;kg SO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.00015;USD2013
+Marine eutrophication;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Fine particulate matter formation;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Ionizing radiation;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Land use;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Human carcinogenic toxicity;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Freshwater eutrophication;0.00000;species.yr
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Freshwater ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Human health;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Fossil resource scarcity;0.00015;USD2013
+Ionizing radiation;0.00000;DALY
+Marine ecotoxicity;0.00000;species.yr
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Stratospheric ozone depletion;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Mineral resource scarcity;0.00000;USD2013
+Ionizing radiation;0.00000;DALY
+Fossil resource scarcity;0.00015;USD2013
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Resources;0.00000;$ surplus
+Ecosystem Quality;0.00000;species*year
+Human Health;0.00000;DALY
+WSI;0.00000;m3
+Ecosystem Quality;0.00000;PAF*m2yr
+Human Health;0.00000;DALY
+Resources;0.00000;MJ surplus
+HH, agricultural water scarcity;0.00000;DALY
+HH, domestic water scarcity;0.00000;DALY
+IPCC GWP 20a;0.00479;kg CO2 eq
+IPCC GWP 100a;0.00461;kg CO2 eq
+Aquatic acidification;0.00001;kg SO2 eq
+Aquatic ecotoxicity;0.03467;kg TEG water
+Respiratory inorganics;0.00000;kg PM2.5 eq
+Carcinogens;0.00000;kg C2H3Cl eq
+Respiratory organics;0.00000;kg C2H4 eq
+Non-carcinogens;0.00000;kg C2H3Cl eq
+Aquatic eutrophication;0.00000;kg PO4 P-lim
+Mineral extraction;0.00000;MJ surplus
+Global warming;0.00453;kg CO2 eq
+Terrestrial ecotoxicity;0.00122;kg TEG soil
+Non-renewable energy;0.10393;MJ primary
+Ozone layer depletion;0.00000;kg CFC-11 eq
+Ionizing radiation;0.00000;Bq C-14 eq
+Terrestrial acid/nutri;0.00006;kg SO2 eq
+Land occupation;0.00000;m2org.arable
+WSI;0.00000;m3
+Low vision;0.00000;PersonYr
+Gravation of angina pectoris;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Drinking water;0.00029;kg
+COPD severe;0.00000;PersonYr
+YOLL;0.00000;PersonYr
+Separations;0.00000;case
+Malnutrition;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Wood growth capacity;-0.00003;kg
+Depletion of abiotic resources;0.00013;kg
+Crop growth capacity;0.00006;kg
+Asthma cases;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Production capacity for fruit&vegetables;0.00001;kg
+Poisoning;0.00000;PersonYr
+Irrigation water;0.00058;kg
+Diarrhea;0.00000;PersonYr
+Fish&meat production capacity;0.00000;kg
+Cancer;0.00000;PersonYr
+Skin cancer;0.00000;PersonYr
+Depletion of abiotic resources;0.00013;kg
+Drinking water;0.00025;kg
+Irrigation water;0.00051;kg
+Malnutrition;0.00000;PersonYr
+Wood growth capacity;-0.00003;kg
+Fish&meat production capacity;0.00000;kg
+Gravation of angina pectoris;0.00000;PersonYr
+Diarrhea;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Crop growth capacity;0.00006;kg
+Production capacity for fruit&vegetables;0.00001;kg
+Low vision;0.00000;PersonYr
+Poisoning;0.00000;PersonYr
+Separations;0.00000;case
+YOLL;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Cancer;0.00000;PersonYr
+COPD severe;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Skin cancer;0.00000;PersonYr
+Asthma cases;0.00000;PersonYr
+Acidification (fate not incl.);0.00001;kg SO2 eq
+Abiotic depletion, fossil fuels;0.00869;MJ
+Ozone layer depletion (ODP) (optional);0.00000;kg CFC-11 eq
+Eutrophication;0.00000;kg PO4--- eq
+Abiotic depletion, elements;0.00000;kg Sb eq
+Global warming (GWP100a);0.00460;kg CO2 eq
+Photochemical oxidation;0.00001;kg NMVOC
+Water scarcity;0.00001;m3 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Water depletion;0.00000;m3
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DB eq
+Climate change;0.00461;kg CO2 eq
+Ionising radiation;0.00000;kBq U235 eq
+Human toxicity;0.00001;kg 1,4-DB eq
+Urban land occupation;0.00000;m2a
+Photochemical oxidant formation;0.00001;kg NMVOC
+Agricultural land occupation;0.00000;m2a
+Terrestrial acidification;0.00002;kg SO2 eq
+Fossil depletion;0.00091;kg oil eq
+Particulate matter formation;0.00001;kg PM10 eq
+Natural land transformation;0.00000;m2
+Ozone depletion;0.00000;kg CFC-11 eq
+Marine eutrophication;0.00000;kg N eq
+Metal depletion;0.00001;kg Fe eq
+Marine ecotoxicity;0.00000;kg 1,4-DB eq
+Acidification;0.00003;mol H+ eq
+Ozone depletion;0.00000;kg CFC11 eq
+Human toxicity, cancer;0.00000;CTUh
+Human toxicity, cancer - organics;0.00000;CTUh
+Ecotoxicity, freshwater - metals;0.00196;CTUe
+Eutrophication, terrestrial;0.00005;mol N eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Photochemical ozone formation;0.00001;kg NMVOC eq
+Ecotoxicity, freshwater - organics;0.00010;CTUe
+Resource use, fossils;0.07238;MJ
+Particulate matter;0.00000;disease inc.
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Ecotoxicity, freshwater;0.00394;CTUe
+Climate change - Fossil;0.00463;kg CO2 eq
+Eutrophication, marine;0.00000;kg N eq
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Human toxicity, non-cancer;0.00000;CTUh
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, cancer - metals;0.00000;CTUh
+Land use;0.00000;Pt
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change;0.00463;kg CO2 eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Water use;0.00001;m3 depriv.
+Ionising radiation;0.00000;kBq U-235 eq
+Ecotoxicity, freshwater - inorganics;0.00189;CTUe
+Land use;0.00000;Pt
+Climate change - fossil;0.00463;kg CO2 eq
+Climate change;0.00463;kg CO2 eq
+Resource use, energy carriers;0.10194;MJ
+Non-cancer human health effects;0.00000;CTUh
+Ecotoxicity freshwater;0.00003;CTUe
+Respiratory inorganics;0.00000;disease inc.
+Resource use, mineral and metals;0.00000;kg Sb eq
+Acidification terrestrial and freshwater;0.00003;mol H+ eq
+Water scarcity;0.00001;m3 depriv.
+Eutrophication terrestrial;0.00005;mol N eq
+Photochemical ozone formation, HH;0.00001;kg NMVOC eq
+Ozone depletion;0.00000;kg CFC11 eq
+Cancer human health effects;0.00000;CTUh
+Eutrophication freshwater;0.00000;kg P eq
+Eutrophication marine;0.00000;kg N eq
+Ionising radiation, HH;0.00000;kBq U-235 eq
+Climate change - land use and transform.;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Photochemical ozone formation;0.00001;kg NMVOC eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Ecotoxicity, freshwater;0.00394;CTUe
+Acidification;0.00003;mol H+ eq
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Eutrophication, terrestrial;0.00005;mol N eq
+Particulate matter;0.00000;disease inc.
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Ecotoxicity, freshwater - inorganics;0.00189;CTUe
+Human toxicity, cancer - metals;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, non-cancer;0.00000;CTUh
+Resource use, fossils;0.10194;MJ
+Water use;0.00001;m3 depriv.
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Ionising radiation;0.00000;kBq U-235 eq
+Land use;0.00000;Pt
+Ecotoxicity, freshwater - metals;0.00196;CTUe
+Human toxicity, cancer;0.00000;CTUh
+Ecotoxicity, freshwater - organics;0.00010;CTUe
+Human toxicity, cancer - organics;0.00000;CTUh
+Eutrophication, marine;0.00000;kg N eq
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Climate change;0.00463;kg CO2 eq
+Ozone depletion;0.00000;kg CFC11 eq
+Climate change - Fossil;0.00463;kg CO2 eq
+Aquatic eutrophication EP(P);0.00000;kg P
+Global warming 100a;0.00459;kg CO2 eq
+Hazardous waste;0.00000;kg
+Human toxicity soil;0.00017;m3
+Human toxicity air;0.03342;person
+Acidification;0.00010;m2
+Radioactive waste;0.00000;kg
+Ozone formation (Human);0.00000;person.ppm.h
+Ozone depletion;0.00000;kg CFC11 eq
+Aquatic eutrophication EP(N);0.00000;kg N
+Bulk waste;0.16177;kg
+Ecotoxicity soil chronic;0.00199;m3
+Resources (all);0.00000;PR2004
+Ecotoxicity water acute;0.00080;m3
+Ozone formation (Vegetation);0.02865;m2.ppm.h
+Slags/ashes;0.00000;kg
+Human toxicity water;0.00010;m3
+Terrestrial eutrophication;0.00028;m2
+Ecotoxicity water chronic;0.00626;m3
+linear, land occupation;0.00000;points
+linear, land transformation;0.00000;points
+Natural resources (water only);0.00000;UBP
+Non renewable, primary;0.00000;MJ
+Renewable, potential;0.00000;MJ
+Non renewable, minerals;0.00000;MJ
+Renewable, water;0.00001;MJ
+Non renewable, fossil;0.00935;MJ
+Non renewable, metals;0.00000;MJ
+Renewable, solar;0.00000;MJ
+Non renewable, nuclear;0.06369;MJ
+Renewable, kinetic;0.00000;MJ
+Renewable , biomass;0.00000;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;0.00869;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, nuclear;0.06369;MJ
+Renewable, water;0.00000;MJ
+Renewable, water;0.00000;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;0.00921;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, nuclear;0.06369;MJ
+WDI;0.00000;m3
+Acidification;0.44576;H+ mmole eq
+Ozone depletion;0.00000;g CFC-11 eq
+Ecotoxicity;0.00085;g 2,4-D eq
+Global warming;4.58477;g CO2 eq
+Smog;0.02271;g NOx eq
+Indoor air quality;0.00000;g TVOC eq
+HH cancer;0.00010;g C6H6 eq
+Habitat alteration;0.00000;T&E count
+Eutrophication;0.00050;g N eq
+Water intake;0.00000;liters
+Natural resource depletion;0.00203;MJ surplus
+HH noncancer;0.01121;g C7H7 eq
+HH criteria air pollutants;0.00002;microDALYs
+Eutrophication (incl. fate);0.00001;kg PO4--- eq
+Freshwater aquatic ecotox. 500a;0.00000;kg 1,4-DB eq
+Photochem. oxid. (incl. NMVOC av.);0.00000;kg C2H4 eq
+Human toxicity 20a;0.00002;kg 1,4-DB eq
+Photochemical oxidation (MOIR, high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 100a;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Global warming 20a;0.00478;kg CO2 eq
+Human toxicity 100a;0.00002;kg 1,4-DB eq
+Human tox. (incl. PAH, Xylene & NMVOC av;0.00014;kg 1,4-DB eq
+Ozone layer depletion 25a;0.00000;kg CFC-11 eq
+Mar. aq. ecotox. (PAH, Xylene & NMVOC av;1.74515;kg 1,4-DB eq
+Ozone layer depletion 40a;0.00000;kg CFC-11 eq
+Global warming 500a;0.00000;kg CO2 eq
+Ozone layer depletion 15a;0.00000;kg CFC-11 eq
+Ozone layer depletion (incl. NMVOC av.);0.00000;kg CFC-11 eq
+Photochemical oxidation (low NOx);0.00000;kg C2H4 eq
+Photochem. oxid. (incl. NOx & NMVOC av.);-0.00000;kg C2H4 eq
+Terr. ecotox. (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Terrestrial ecotoxicity 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. infinite;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Lower limit of net global warming;0.00464;kg CO2 eq
+Marine sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 500a;0.00000;kg 1,4-DB eq
+Human toxicity 500a;0.00002;kg 1,4-DB eq
+Marine sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Ionising radiation;0.00000;DALYs
+Ozone layer depletion 30a;0.00000;kg CFC-11 eq
+Ozone layer depletion 5a;0.00000;kg CFC-11 eq
+Freshwater sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Marine sediment ecotox. infinite;0.57478;kg 1,4-DB eq
+Abiotic depletion (elem., reserve base);0.00000;kg Sb eq
+Land competition;0.00000;m2a
+Photochemical oxidation (EBIR, low NOx);0.00000;kg C2H4 eq
+Marine sediment ecotox. 500a;0.00002;kg 1,4-DB eq
+Upper limit of net global warming;0.00464;kg CO2 eq
+Fw. aq. ecot.  (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Ozone layer depletion 20a;0.00000;kg CFC-11 eq
+Photochem. oxid. (MIR, very high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 500a;0.00000;kg 1,4-DB eq
+Global warming 100a (incl. NMVOC av.);0.00461;kg CO2 eq
+Acidification (fate not incl.);0.00001;kg SO2 eq
+Freshwater aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Ozone layer depletion 10a;0.00000;kg CFC-11 eq
+Abiotic depletion (elem., econ. reserve);0.00000;kg Sb eq
+Marine aquatic ecotox. 500a;0.00002;kg 1,4-DB eq
+Malodorous air;0.01076;m3 air
+Freshwater aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Abiotic depletion (fossil fuels);0.00869;MJ
+Global warming (GWP100a);0.00460;kg CO2 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Marine aquatic ecotoxicity;1.74515;kg 1,4-DB eq
+Photochemical oxidation;0.00000;kg C2H4 eq
+Ozone layer depletion (ODP);0.00000;kg CFC-11 eq
+Human toxicity;0.00014;kg 1,4-DB eq
+Abiotic depletion;0.00000;kg Sb eq
+Eutrophication;0.00000;kg PO4--- eq
+Acidification;0.00001;kg SO2 eq
+Fresh water aquatic ecotox.;0.00000;kg 1,4-DB eq
+WSI;0.00000;m3
+HH, distribution;0.00000;DALY
+HH, marginal;0.00000;DALY
+Water use;0.00001;m3
+Heavy metals into air;0.00551;UBP
+Carcinogenic substances into air;0.00000;UBP
+Pesticides into soil;0.00020;UBP
+Mineral resources;0.00000;UBP
+Heavy metals into soil;0.00000;UBP
+Water pollutants;0.00073;UBP
+Radioactive substances into air;0.00000;UBP
+Noise;0.00000;UBP
+Non radioactive waste to deposit;0.00000;UBP
+Energy resources;0.24829;UBP
+POP into water;0.00000;UBP
+Global warming;0.00198;UBP
+Water resources;0.00001;UBP
+Radioactive waste to deposit;0.00000;UBP
+Ozone layer depletion;0.00000;UBP
+Radioactive substances into water;0.00000;UBP
+Land use;0.00000;UBP
+Main air pollutants and PM;0.43240;UBP
+Heavy metals into water;0.00428;UBP
+Human toxicity, cancer effects;0.00000;CTUh
+Acidification;0.00001;molc H+ eq
+Water resource depletion;0.00000;m3 water eq
+Mineral, fossil & ren resource depletion;0.00000;kg Sb eq
+Human toxicity, non-cancer effects;0.00000;CTUh
+Photochemical ozone formation;0.00001;kg NMVOC eq
+Climate change;0.00459;kg CO2 eq
+Marine eutrophication;0.00000;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00003;CTUe
+Land use;0.00000;kg C deficit
+Ionizing radiation E (interim);0.00000;CTUe
+Terrestrial eutrophication;0.00005;molc N eq
+Ionizing radiation HH;0.00000;kBq U235 eq
+Particulate matter;0.00000;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+IPCC 2021 AGWP 20;0.00012;pW m^-2 yr 
+IPCC 2021 CGTP 50;0.00891;yr*kg CO2 eq
+IPCC 2021 AGTP 50;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 20;0.00477;kg CO2 eq
+IPCC 2021 GTP 50;0.00455;kg CO2 eq
+IPCC 2021 GWP 100;0.00460;kg CO2 eq
+IPCC 2021 AGTP 100;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 100 (according to UNFCCC/Kyoto Protocol);0.00460;kg CO2 eq
+IPCC 2021 CGTP 100;0.01084;yr*kg CO2 eq
+IPCC 2021 AGWP 500;0.00142;pW m^-2 yr 
+IPCC 2021 AGWP 100;0.00041;pW m^-2 yr 
+IPCC 2021 GWP 500;0.00453;kg CO2 eq
+IPCC 2021 GTP 100;0.00453;kg CO2 eq
+Calculated result for 2e6b3ed1-33ef-40bd-865e-b9fa9de6e724
+
+Crustal scarcity indicator;0.00000;kg Si eq
+Climate change - fossil;0.00000;kg CO2 eq
+Climate change - land use and land transformation;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Climate change - CO2 uptake;0.00000;kg CO2 eq
+Freshwater ecotoxicity;0.00000;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Freshwater ecotoxicity;0.00000;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Carcinogenics;0.00000;CTUh
+Acidification;0.00000;kg SO2 eq
+Smog;0.00000;kg O3 eq
+Global warming;0.00000;kg CO2 eq
+Non carcinogenics;0.00000;CTUh
+Respiratory effects;0.00000;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+Fossil fuel depletion;0.00000;MJ surplus
+Eutrophication;0.00000;kg N eq
+Ecotoxicity;0.00000;CTUe
+Zinc;0.00000;kg
+Nuclides;0.00000;kBq
+Actinides (water);0.00000;kBq
+Carbon, biogenic, fixed;0.00000;kg
+Lead;0.00000;kg
+Oils, unspecified;0.00000;kg
+Freshwater;0.00000;m3
+Particulates, >2.5 um and <10;0.00000;kg
+Carbon monoxide;0.00000;kg
+Particulates >10 um;0.00000;kg
+Particulates;0.00000;kg
+Aerosole;0.00000;kBq
+Radon (+ radium);0.00000;kBq
+Dinitrogen monoxide;0.00000;kg
+Actinides (air);0.00000;kBq
+Tritium;0.00000;kBq
+Heat, waste;0.00000;MJ
+Radium;0.00000;kBq
+Methane;0.00000;kg
+Water;0.00000;m3
+Noble gas;0.00000;kBq
+Cadmium;0.00000;kg
+Nitrogen oxides;0.00000;kg
+Sulphur dioxide;0.00000;kg
+Particulates, <2.5 um;0.00000;kg
+NMVOC;0.00000;kg
+Carbon dioxide, fossil;0.00000;kg
+BOD;0.00000;kg
+Land occupation;0.00000;m2a
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00000;kg SO2 eq
+Ozone formation, Terrestrial ecosystems;0.00000;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.00000;kg oil eq
+Ozone formation, Human health;0.00000;kg NOx eq
+Water consumption;0.00000;m3
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Fine particulate matter formation;0.00000;kg PM2.5 eq
+Global warming;0.00000;kg CO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Land use;0.00000;m2a crop eq
+Freshwater eutrophication;0.00000;kg P eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DCB
+Water consumption;0.00000;m3
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Mineral resource scarcity;0.00000;kg Cu eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00000;kg SO2 eq
+Fine particulate matter formation;0.00000;kg PM2.5 eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Global warming;0.00000;kg CO2 eq
+Fossil resource scarcity;0.00000;kg oil eq
+Ozone formation, Human health;0.00000;kg NOx eq
+Ozone formation, Terrestrial ecosystems;0.00000;kg NOx eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Fine particulate matter formation;0.00000;kg PM2.5 eq
+Water consumption;0.00000;m3
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Global warming;0.00000;kg CO2 eq
+Freshwater eutrophication;0.00000;kg P eq
+Fossil resource scarcity;0.00000;kg oil eq
+Ozone formation, Human health;0.00000;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Ozone formation, Terrestrial ecosystems;0.00000;kg NOx eq
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DCB
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00000;kg SO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.00000;USD2013
+Marine eutrophication;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Fine particulate matter formation;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Ionizing radiation;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Land use;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Human carcinogenic toxicity;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Freshwater eutrophication;0.00000;species.yr
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Freshwater ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Human health;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Fossil resource scarcity;0.00000;USD2013
+Ionizing radiation;0.00000;DALY
+Marine ecotoxicity;0.00000;species.yr
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Stratospheric ozone depletion;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Mineral resource scarcity;0.00000;USD2013
+Ionizing radiation;0.00000;DALY
+Fossil resource scarcity;0.00000;USD2013
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Resources;0.00000;$ surplus
+Ecosystem Quality;0.00000;species*year
+Human Health;0.00000;DALY
+WSI;0.00000;m3
+Ecosystem Quality;0.00000;PAF*m2yr
+Human Health;0.00000;DALY
+Resources;0.00000;MJ surplus
+HH, agricultural water scarcity;0.00000;DALY
+HH, domestic water scarcity;0.00000;DALY
+IPCC GWP 20a;0.00000;kg CO2 eq
+IPCC GWP 100a;0.00000;kg CO2 eq
+Aquatic acidification;0.00000;kg SO2 eq
+Aquatic ecotoxicity;0.00000;kg TEG water
+Respiratory inorganics;0.00000;kg PM2.5 eq
+Carcinogens;0.00000;kg C2H3Cl eq
+Respiratory organics;0.00000;kg C2H4 eq
+Non-carcinogens;0.00000;kg C2H3Cl eq
+Aquatic eutrophication;0.00000;kg PO4 P-lim
+Mineral extraction;0.00000;MJ surplus
+Global warming;0.00000;kg CO2 eq
+Terrestrial ecotoxicity;0.00000;kg TEG soil
+Non-renewable energy;0.00000;MJ primary
+Ozone layer depletion;0.00000;kg CFC-11 eq
+Ionizing radiation;0.00000;Bq C-14 eq
+Terrestrial acid/nutri;0.00000;kg SO2 eq
+Land occupation;0.00000;m2org.arable
+WSI;0.00000;m3
+Low vision;0.00000;PersonYr
+Gravation of angina pectoris;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Drinking water;0.00000;kg
+COPD severe;0.00000;PersonYr
+YOLL;0.00000;PersonYr
+Separations;0.00000;case
+Malnutrition;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Wood growth capacity;0.00000;kg
+Depletion of abiotic resources;0.00000;kg
+Crop growth capacity;0.00000;kg
+Asthma cases;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Production capacity for fruit&vegetables;0.00000;kg
+Poisoning;0.00000;PersonYr
+Irrigation water;0.00000;kg
+Diarrhea;0.00000;PersonYr
+Fish&meat production capacity;0.00000;kg
+Cancer;0.00000;PersonYr
+Skin cancer;0.00000;PersonYr
+Depletion of abiotic resources;0.00000;kg
+Drinking water;0.00000;kg
+Irrigation water;0.00000;kg
+Malnutrition;0.00000;PersonYr
+Wood growth capacity;0.00000;kg
+Fish&meat production capacity;0.00000;kg
+Gravation of angina pectoris;0.00000;PersonYr
+Diarrhea;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Crop growth capacity;0.00000;kg
+Production capacity for fruit&vegetables;0.00000;kg
+Low vision;0.00000;PersonYr
+Poisoning;0.00000;PersonYr
+Separations;0.00000;case
+YOLL;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Cancer;0.00000;PersonYr
+COPD severe;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Skin cancer;0.00000;PersonYr
+Asthma cases;0.00000;PersonYr
+Acidification (fate not incl.);0.00000;kg SO2 eq
+Abiotic depletion, fossil fuels;0.00000;MJ
+Ozone layer depletion (ODP) (optional);0.00000;kg CFC-11 eq
+Eutrophication;0.00000;kg PO4--- eq
+Abiotic depletion, elements;0.00000;kg Sb eq
+Global warming (GWP100a);0.00000;kg CO2 eq
+Photochemical oxidation;0.00000;kg NMVOC
+Water scarcity;0.00000;m3 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Water depletion;0.00000;m3
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DB eq
+Climate change;0.00000;kg CO2 eq
+Ionising radiation;0.00000;kBq U235 eq
+Human toxicity;0.00000;kg 1,4-DB eq
+Urban land occupation;0.00000;m2a
+Photochemical oxidant formation;0.00000;kg NMVOC
+Agricultural land occupation;0.00000;m2a
+Terrestrial acidification;0.00000;kg SO2 eq
+Fossil depletion;0.00000;kg oil eq
+Particulate matter formation;0.00000;kg PM10 eq
+Natural land transformation;0.00000;m2
+Ozone depletion;0.00000;kg CFC-11 eq
+Marine eutrophication;0.00000;kg N eq
+Metal depletion;0.00000;kg Fe eq
+Marine ecotoxicity;0.00000;kg 1,4-DB eq
+Acidification;0.00000;mol H+ eq
+Ozone depletion;0.00000;kg CFC11 eq
+Human toxicity, cancer;0.00000;CTUh
+Human toxicity, cancer - organics;0.00000;CTUh
+Ecotoxicity, freshwater - metals;0.00000;CTUe
+Eutrophication, terrestrial;0.00000;mol N eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Photochemical ozone formation;0.00000;kg NMVOC eq
+Ecotoxicity, freshwater - organics;0.00000;CTUe
+Resource use, fossils;0.00000;MJ
+Particulate matter;0.00000;disease inc.
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Ecotoxicity, freshwater;0.00000;CTUe
+Climate change - Fossil;0.00000;kg CO2 eq
+Eutrophication, marine;0.00000;kg N eq
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Human toxicity, non-cancer;0.00000;CTUh
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, cancer - metals;0.00000;CTUh
+Land use;0.00000;Pt
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change;0.00000;kg CO2 eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Water use;0.00000;m3 depriv.
+Ionising radiation;0.00000;kBq U-235 eq
+Ecotoxicity, freshwater - inorganics;0.00000;CTUe
+Land use;0.00000;Pt
+Climate change - fossil;0.00000;kg CO2 eq
+Climate change;0.00000;kg CO2 eq
+Resource use, energy carriers;0.00000;MJ
+Non-cancer human health effects;0.00000;CTUh
+Ecotoxicity freshwater;0.00000;CTUe
+Respiratory inorganics;0.00000;disease inc.
+Resource use, mineral and metals;0.00000;kg Sb eq
+Acidification terrestrial and freshwater;0.00000;mol H+ eq
+Water scarcity;0.00000;m3 depriv.
+Eutrophication terrestrial;0.00000;mol N eq
+Photochemical ozone formation, HH;0.00000;kg NMVOC eq
+Ozone depletion;0.00000;kg CFC11 eq
+Cancer human health effects;0.00000;CTUh
+Eutrophication freshwater;0.00000;kg P eq
+Eutrophication marine;0.00000;kg N eq
+Ionising radiation, HH;0.00000;kBq U-235 eq
+Climate change - land use and transform.;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Photochemical ozone formation;0.00000;kg NMVOC eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Ecotoxicity, freshwater;0.00000;CTUe
+Acidification;0.00000;mol H+ eq
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Eutrophication, terrestrial;0.00000;mol N eq
+Particulate matter;0.00000;disease inc.
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Ecotoxicity, freshwater - inorganics;0.00000;CTUe
+Human toxicity, cancer - metals;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, non-cancer;0.00000;CTUh
+Resource use, fossils;0.00000;MJ
+Water use;0.00000;m3 depriv.
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Ionising radiation;0.00000;kBq U-235 eq
+Land use;0.00000;Pt
+Ecotoxicity, freshwater - metals;0.00000;CTUe
+Human toxicity, cancer;0.00000;CTUh
+Ecotoxicity, freshwater - organics;0.00000;CTUe
+Human toxicity, cancer - organics;0.00000;CTUh
+Eutrophication, marine;0.00000;kg N eq
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Climate change;0.00000;kg CO2 eq
+Ozone depletion;0.00000;kg CFC11 eq
+Climate change - Fossil;0.00000;kg CO2 eq
+Aquatic eutrophication EP(P);0.00000;kg P
+Global warming 100a;0.00000;kg CO2 eq
+Hazardous waste;0.00000;kg
+Human toxicity soil;0.00000;m3
+Human toxicity air;0.00000;person
+Acidification;0.00000;m2
+Radioactive waste;0.00000;kg
+Ozone formation (Human);0.00000;person.ppm.h
+Ozone depletion;0.00000;kg CFC11 eq
+Aquatic eutrophication EP(N);0.00000;kg N
+Bulk waste;0.00000;kg
+Ecotoxicity soil chronic;0.00000;m3
+Resources (all);0.00000;PR2004
+Ecotoxicity water acute;0.00000;m3
+Ozone formation (Vegetation);0.00000;m2.ppm.h
+Slags/ashes;0.00000;kg
+Human toxicity water;0.00000;m3
+Terrestrial eutrophication;0.00000;m2
+Ecotoxicity water chronic;0.00000;m3
+linear, land occupation;0.00000;points
+linear, land transformation;0.00000;points
+Natural resources (water only);0.00000;UBP
+Non renewable, primary;0.00000;MJ
+Renewable, potential;0.00000;MJ
+Non renewable, minerals;0.00000;MJ
+Renewable, water;0.00000;MJ
+Non renewable, fossil;0.00000;MJ
+Non renewable, metals;0.00000;MJ
+Renewable, solar;0.00000;MJ
+Non renewable, nuclear;0.00000;MJ
+Renewable, kinetic;0.00000;MJ
+Renewable , biomass;0.00000;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;0.00000;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, nuclear;0.00000;MJ
+Renewable, water;0.00000;MJ
+Renewable, water;0.00000;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;0.00000;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, nuclear;0.00000;MJ
+WDI;0.00000;m3
+Acidification;0.00000;H+ mmole eq
+Ozone depletion;0.00000;g CFC-11 eq
+Ecotoxicity;0.00000;g 2,4-D eq
+Global warming;0.00000;g CO2 eq
+Smog;0.00000;g NOx eq
+Indoor air quality;0.00000;g TVOC eq
+HH cancer;0.00000;g C6H6 eq
+Habitat alteration;0.00000;T&E count
+Eutrophication;0.00000;g N eq
+Water intake;0.00000;liters
+Natural resource depletion;0.00000;MJ surplus
+HH noncancer;0.00000;g C7H7 eq
+HH criteria air pollutants;0.00000;microDALYs
+Eutrophication (incl. fate);0.00000;kg PO4--- eq
+Freshwater aquatic ecotox. 500a;0.00000;kg 1,4-DB eq
+Photochem. oxid. (incl. NMVOC av.);0.00000;kg C2H4 eq
+Human toxicity 20a;0.00000;kg 1,4-DB eq
+Photochemical oxidation (MOIR, high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 100a;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Global warming 20a;0.00000;kg CO2 eq
+Human toxicity 100a;0.00000;kg 1,4-DB eq
+Human tox. (incl. PAH, Xylene & NMVOC av;0.00000;kg 1,4-DB eq
+Ozone layer depletion 25a;0.00000;kg CFC-11 eq
+Mar. aq. ecotox. (PAH, Xylene & NMVOC av;0.00000;kg 1,4-DB eq
+Ozone layer depletion 40a;0.00000;kg CFC-11 eq
+Global warming 500a;0.00000;kg CO2 eq
+Ozone layer depletion 15a;0.00000;kg CFC-11 eq
+Ozone layer depletion (incl. NMVOC av.);0.00000;kg CFC-11 eq
+Photochemical oxidation (low NOx);0.00000;kg C2H4 eq
+Photochem. oxid. (incl. NOx & NMVOC av.);0.00000;kg C2H4 eq
+Terr. ecotox. (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Terrestrial ecotoxicity 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. infinite;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Lower limit of net global warming;0.00000;kg CO2 eq
+Marine sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 500a;0.00000;kg 1,4-DB eq
+Human toxicity 500a;0.00000;kg 1,4-DB eq
+Marine sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Ionising radiation;0.00000;DALYs
+Ozone layer depletion 30a;0.00000;kg CFC-11 eq
+Ozone layer depletion 5a;0.00000;kg CFC-11 eq
+Freshwater sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Marine sediment ecotox. infinite;0.00000;kg 1,4-DB eq
+Abiotic depletion (elem., reserve base);0.00000;kg Sb eq
+Land competition;0.00000;m2a
+Photochemical oxidation (EBIR, low NOx);0.00000;kg C2H4 eq
+Marine sediment ecotox. 500a;0.00000;kg 1,4-DB eq
+Upper limit of net global warming;0.00000;kg CO2 eq
+Fw. aq. ecot.  (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Ozone layer depletion 20a;0.00000;kg CFC-11 eq
+Photochem. oxid. (MIR, very high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 500a;0.00000;kg 1,4-DB eq
+Global warming 100a (incl. NMVOC av.);0.00000;kg CO2 eq
+Acidification (fate not incl.);0.00000;kg SO2 eq
+Freshwater aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Ozone layer depletion 10a;0.00000;kg CFC-11 eq
+Abiotic depletion (elem., econ. reserve);0.00000;kg Sb eq
+Marine aquatic ecotox. 500a;0.00000;kg 1,4-DB eq
+Malodorous air;0.00000;m3 air
+Freshwater aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Abiotic depletion (fossil fuels);0.00000;MJ
+Global warming (GWP100a);0.00000;kg CO2 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Marine aquatic ecotoxicity;0.00000;kg 1,4-DB eq
+Photochemical oxidation;0.00000;kg C2H4 eq
+Ozone layer depletion (ODP);0.00000;kg CFC-11 eq
+Human toxicity;0.00000;kg 1,4-DB eq
+Abiotic depletion;0.00000;kg Sb eq
+Eutrophication;0.00000;kg PO4--- eq
+Acidification;0.00000;kg SO2 eq
+Fresh water aquatic ecotox.;0.00000;kg 1,4-DB eq
+WSI;0.00000;m3
+HH, distribution;0.00000;DALY
+HH, marginal;0.00000;DALY
+Water use;0.00000;m3
+Heavy metals into air;0.00000;UBP
+Carcinogenic substances into air;0.00000;UBP
+Pesticides into soil;0.00000;UBP
+Mineral resources;0.00000;UBP
+Heavy metals into soil;0.00000;UBP
+Water pollutants;0.00000;UBP
+Radioactive substances into air;0.00000;UBP
+Noise;0.00000;UBP
+Non radioactive waste to deposit;0.00000;UBP
+Energy resources;0.00000;UBP
+POP into water;0.00000;UBP
+Global warming;0.00000;UBP
+Water resources;0.00000;UBP
+Radioactive waste to deposit;0.00000;UBP
+Ozone layer depletion;0.00000;UBP
+Radioactive substances into water;0.00000;UBP
+Land use;0.00000;UBP
+Main air pollutants and PM;0.00000;UBP
+Heavy metals into water;0.00000;UBP
+Human toxicity, cancer effects;0.00000;CTUh
+Acidification;0.00000;molc H+ eq
+Water resource depletion;0.00000;m3 water eq
+Mineral, fossil & ren resource depletion;0.00000;kg Sb eq
+Human toxicity, non-cancer effects;0.00000;CTUh
+Photochemical ozone formation;0.00000;kg NMVOC eq
+Climate change;0.00000;kg CO2 eq
+Marine eutrophication;0.00000;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00000;CTUe
+Land use;0.00000;kg C deficit
+Ionizing radiation E (interim);0.00000;CTUe
+Terrestrial eutrophication;0.00000;molc N eq
+Ionizing radiation HH;0.00000;kBq U235 eq
+Particulate matter;0.00000;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+IPCC 2021 AGWP 20;0.00000;pW m^-2 yr 
+IPCC 2021 CGTP 50;0.00000;yr*kg CO2 eq
+IPCC 2021 AGTP 50;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 20;0.00000;kg CO2 eq
+IPCC 2021 GTP 50;0.00000;kg CO2 eq
+IPCC 2021 GWP 100;0.00000;kg CO2 eq
+IPCC 2021 AGTP 100;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 100 (according to UNFCCC/Kyoto Protocol);0.00000;kg CO2 eq
+IPCC 2021 CGTP 100;0.00000;yr*kg CO2 eq
+IPCC 2021 AGWP 500;0.00000;pW m^-2 yr 
+IPCC 2021 AGWP 100;0.00000;pW m^-2 yr 
+IPCC 2021 GWP 500;0.00000;kg CO2 eq
+IPCC 2021 GTP 100;0.00000;kg CO2 eq
+Calculated result for ef82156c-f64b-4c44-9a0d-907fa37ca3e7
+
+Crustal scarcity indicator;7.46583;kg Si eq
+Climate change - fossil;0.11832;kg CO2 eq
+Climate change - land use and land transformation;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Climate change - CO2 uptake;0.00000;kg CO2 eq
+Freshwater ecotoxicity;0.00000;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Human toxicity, non-cancer;0.00000;cases
+Freshwater ecotoxicity;0.00000;PAF.m3.day
+Human toxicity, cancer;0.00000;cases
+Carcinogenics;0.00000;CTUh
+Acidification;0.00110;kg SO2 eq
+Smog;0.03889;kg O3 eq
+Global warming;0.11832;kg CO2 eq
+Non carcinogenics;0.00000;CTUh
+Respiratory effects;0.00001;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+Fossil fuel depletion;0.26110;MJ surplus
+Eutrophication;0.00007;kg N eq
+Ecotoxicity;0.00000;CTUe
+Zinc;0.00000;kg
+Nuclides;0.00000;kBq
+Actinides (water);0.00000;kBq
+Carbon, biogenic, fixed;0.00000;kg
+Lead;0.00000;kg
+Oils, unspecified;0.00000;kg
+Freshwater;0.00001;m3
+Particulates, >2.5 um and <10;0.00000;kg
+Carbon monoxide;0.00000;kg
+Particulates >10 um;0.00000;kg
+Particulates;0.00000;kg
+Aerosole;0.00000;kBq
+Radon (+ radium);0.00000;kBq
+Dinitrogen monoxide;0.00000;kg
+Actinides (air);0.00000;kBq
+Tritium;0.00000;kBq
+Heat, waste;0.00000;MJ
+Radium;0.00000;kBq
+Methane;0.00000;kg
+Water;0.00001;m3
+Noble gas;0.00000;kBq
+Cadmium;0.00000;kg
+Nitrogen oxides;0.00157;kg
+Sulphur dioxide;0.00000;kg
+Particulates, <2.5 um;0.00000;kg
+NMVOC;0.00000;kg
+Carbon dioxide, fossil;0.11832;kg
+BOD;0.00000;kg
+Land occupation;0.00000;m2a
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00056;kg SO2 eq
+Ozone formation, Terrestrial ecosystems;0.00157;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.03733;kg oil eq
+Ozone formation, Human health;0.00157;kg NOx eq
+Water consumption;0.00001;m3
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Fine particulate matter formation;0.00000;kg PM2.5 eq
+Global warming;0.11834;kg CO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Land use;0.00000;m2a crop eq
+Freshwater eutrophication;0.00000;kg P eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DCB
+Water consumption;0.00001;m3
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Mineral resource scarcity;0.00000;kg Cu eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00056;kg SO2 eq
+Fine particulate matter formation;0.00017;kg PM2.5 eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Global warming;0.11832;kg CO2 eq
+Fossil resource scarcity;0.03733;kg oil eq
+Ozone formation, Human health;0.00157;kg NOx eq
+Ozone formation, Terrestrial ecosystems;0.00157;kg NOx eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Fine particulate matter formation;0.00017;kg PM2.5 eq
+Water consumption;0.00001;m3
+Human carcinogenic toxicity;0.00000;kg 1,4-DCB
+Global warming;0.11832;kg CO2 eq
+Freshwater eutrophication;0.00000;kg P eq
+Fossil resource scarcity;0.03733;kg oil eq
+Ozone formation, Human health;0.00157;kg NOx eq
+Ionizing radiation;0.00000;kBq Co-60 eq
+Marine ecotoxicity;0.00000;kg 1,4-DCB
+Ozone formation, Terrestrial ecosystems;0.00157;kg NOx eq
+Human non-carcinogenic toxicity;0.00000;kg 1,4-DCB
+Marine eutrophication;0.00000;kg N eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DCB
+Freshwater ecotoxicity;0.00000;kg 1,4-DCB
+Terrestrial acidification;0.00056;kg SO2 eq
+Mineral resource scarcity;0.00000;kg Cu eq
+Land use;0.00000;m2a crop eq
+Stratospheric ozone depletion;0.00000;kg CFC11 eq
+Fossil resource scarcity;0.01706;USD2013
+Marine eutrophication;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Fine particulate matter formation;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Ionizing radiation;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Land use;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Human carcinogenic toxicity;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Freshwater eutrophication;0.00000;species.yr
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Mineral resource scarcity;0.00000;USD2013
+Freshwater ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Human health;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Fossil resource scarcity;0.01706;USD2013
+Ionizing radiation;0.00000;DALY
+Marine ecotoxicity;0.00000;species.yr
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Terrestrial ecotoxicity;0.00000;species.yr
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Stratospheric ozone depletion;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Terrestrial acidification;0.00000;species.yr
+Water consumption, Human health;0.00000;DALY
+Stratospheric ozone depletion;0.00000;DALY
+Land use;0.00000;species.yr
+Human carcinogenic toxicity;0.00000;DALY
+Marine eutrophication;0.00000;species.yr
+Water consumption, Terrestrial ecosystem;0.00000;species.yr
+Marine ecotoxicity;0.00000;species.yr
+Human non-carcinogenic toxicity;0.00000;DALY
+Global warming, Terrestrial ecosystems;0.00000;species.yr
+Ozone formation, Terrestrial ecosystems;0.00000;species.yr
+Global warming, Human health;0.00000;DALY
+Mineral resource scarcity;0.00000;USD2013
+Ionizing radiation;0.00000;DALY
+Fossil resource scarcity;0.01706;USD2013
+Global warming, Freshwater ecosystems;0.00000;species.yr
+Freshwater eutrophication;0.00000;species.yr
+Ozone formation, Human health;0.00000;DALY
+Water consumption, Aquatic ecosystems;0.00000;species.yr
+Terrestrial ecotoxicity;0.00000;species.yr
+Fine particulate matter formation;0.00000;DALY
+Freshwater ecotoxicity;0.00000;species.yr
+Resources;0.00000;$ surplus
+Ecosystem Quality;0.00000;species*year
+Human Health;0.00000;DALY
+WSI;0.00000;m3
+Ecosystem Quality;0.00000;PAF*m2yr
+Human Health;0.00000;DALY
+Resources;0.00000;MJ surplus
+HH, agricultural water scarcity;0.00000;DALY
+HH, domestic water scarcity;0.00000;DALY
+IPCC GWP 20a;0.11834;kg CO2 eq
+IPCC GWP 100a;0.11832;kg CO2 eq
+Aquatic acidification;0.00110;kg SO2 eq
+Aquatic ecotoxicity;0.00000;kg TEG water
+Respiratory inorganics;0.00020;kg PM2.5 eq
+Carcinogens;0.00000;kg C2H3Cl eq
+Respiratory organics;0.00000;kg C2H4 eq
+Non-carcinogens;0.00000;kg C2H3Cl eq
+Aquatic eutrophication;0.00000;kg PO4 P-lim
+Mineral extraction;0.00000;MJ surplus
+Global warming;0.11832;kg CO2 eq
+Terrestrial ecotoxicity;0.00000;kg TEG soil
+Non-renewable energy;1.80776;MJ primary
+Ozone layer depletion;0.00000;kg CFC-11 eq
+Ionizing radiation;0.00000;Bq C-14 eq
+Terrestrial acid/nutri;0.00861;kg SO2 eq
+Land occupation;0.00000;m2org.arable
+WSI;0.00000;m3
+Low vision;0.00000;PersonYr
+Gravation of angina pectoris;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Drinking water;0.00743;kg
+COPD severe;0.00000;PersonYr
+YOLL;0.00000;PersonYr
+Separations;0.00000;case
+Malnutrition;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Wood growth capacity;-0.00416;kg
+Depletion of abiotic resources;0.01811;kg
+Crop growth capacity;0.00244;kg
+Asthma cases;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Production capacity for fruit&vegetables;0.00016;kg
+Poisoning;0.00000;PersonYr
+Irrigation water;0.01491;kg
+Diarrhea;0.00000;PersonYr
+Fish&meat production capacity;0.00006;kg
+Cancer;0.00000;PersonYr
+Skin cancer;0.00000;PersonYr
+Depletion of abiotic resources;0.01811;kg
+Drinking water;0.00266;kg
+Irrigation water;0.00537;kg
+Malnutrition;0.00000;PersonYr
+Wood growth capacity;-0.00416;kg
+Fish&meat production capacity;0.00003;kg
+Gravation of angina pectoris;0.00000;PersonYr
+Diarrhea;0.00000;PersonYr
+Osteoporosis;0.00000;case
+Crop growth capacity;0.00215;kg
+Production capacity for fruit&vegetables;0.00006;kg
+Low vision;0.00000;PersonYr
+Poisoning;0.00000;PersonYr
+Separations;0.00000;case
+YOLL;0.00000;PersonYr
+Renal dysfunction;0.00000;case
+Intellectual disability: mild;0.00000;PersonYr
+Species extinction;0.00000;NEX
+Cancer;0.00000;PersonYr
+COPD severe;0.00000;PersonYr
+Working capacity;0.00000;PersonYr
+Housing availability;0.00000;m2
+Skin cancer;0.00000;PersonYr
+Asthma cases;0.00000;PersonYr
+Acidification (fate not incl.);0.00110;kg SO2 eq
+Abiotic depletion, fossil fuels;1.70098;MJ
+Ozone layer depletion (ODP) (optional);0.00000;kg CFC-11 eq
+Eutrophication;0.00020;kg PO4--- eq
+Abiotic depletion, elements;0.00000;kg Sb eq
+Global warming (GWP100a);0.11832;kg CO2 eq
+Photochemical oxidation;0.00157;kg NMVOC
+Water scarcity;0.00024;m3 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Water depletion;0.00001;m3
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00000;kg 1,4-DB eq
+Climate change;0.11832;kg CO2 eq
+Ionising radiation;0.00000;kBq U235 eq
+Human toxicity;0.00000;kg 1,4-DB eq
+Urban land occupation;0.00000;m2a
+Photochemical oxidant formation;0.00157;kg NMVOC
+Agricultural land occupation;0.00000;m2a
+Terrestrial acidification;0.00088;kg SO2 eq
+Fossil depletion;0.04093;kg oil eq
+Particulate matter formation;0.00035;kg PM10 eq
+Natural land transformation;0.00000;m2
+Ozone depletion;0.00000;kg CFC-11 eq
+Marine eutrophication;0.00006;kg N eq
+Metal depletion;0.00000;kg Fe eq
+Marine ecotoxicity;0.00000;kg 1,4-DB eq
+Acidification;0.00116;mol H+ eq
+Ozone depletion;0.00000;kg CFC11 eq
+Human toxicity, cancer;0.00000;CTUh
+Human toxicity, cancer - organics;0.00000;CTUh
+Ecotoxicity, freshwater - metals;0.00000;CTUe
+Eutrophication, terrestrial;0.00668;mol N eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Photochemical ozone formation;0.00157;kg NMVOC eq
+Ecotoxicity, freshwater - organics;0.00000;CTUe
+Resource use, fossils;1.70087;MJ
+Particulate matter;0.00000;disease inc.
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Ecotoxicity, freshwater;0.00000;CTUe
+Climate change - Fossil;0.11832;kg CO2 eq
+Eutrophication, marine;0.00061;kg N eq
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Human toxicity, non-cancer;0.00000;CTUh
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, cancer - metals;0.00000;CTUh
+Land use;0.00000;Pt
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change;0.11832;kg CO2 eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Water use;0.00024;m3 depriv.
+Ionising radiation;0.00000;kBq U-235 eq
+Ecotoxicity, freshwater - inorganics;0.00000;CTUe
+Land use;0.00000;Pt
+Climate change - fossil;0.11832;kg CO2 eq
+Climate change;0.11832;kg CO2 eq
+Resource use, energy carriers;1.70087;MJ
+Non-cancer human health effects;0.00000;CTUh
+Ecotoxicity freshwater;0.00000;CTUe
+Respiratory inorganics;0.00000;disease inc.
+Resource use, mineral and metals;0.00000;kg Sb eq
+Acidification terrestrial and freshwater;0.00116;mol H+ eq
+Water scarcity;0.00024;m3 depriv.
+Eutrophication terrestrial;0.00668;mol N eq
+Photochemical ozone formation, HH;0.00157;kg NMVOC eq
+Ozone depletion;0.00000;kg CFC11 eq
+Cancer human health effects;0.00000;CTUh
+Eutrophication freshwater;0.00000;kg P eq
+Eutrophication marine;0.00061;kg N eq
+Ionising radiation, HH;0.00000;kBq U-235 eq
+Climate change - land use and transform.;0.00000;kg CO2 eq
+Climate change - biogenic;0.00000;kg CO2 eq
+Photochemical ozone formation;0.00157;kg NMVOC eq
+Human toxicity, non-cancer - inorganics;0.00000;CTUh
+Ecotoxicity, freshwater;0.00000;CTUe
+Acidification;0.00116;mol H+ eq
+Human toxicity, non-cancer - organics;0.00000;CTUh
+Eutrophication, terrestrial;0.00668;mol N eq
+Particulate matter;0.00000;disease inc.
+Eutrophication, freshwater;0.00000;kg P eq
+Climate change - Biogenic;0.00000;kg CO2 eq
+Ecotoxicity, freshwater - inorganics;0.00000;CTUe
+Human toxicity, cancer - metals;0.00000;CTUh
+Resource use, minerals and metals;0.00000;kg Sb eq
+Climate change - Land use and LU change;0.00000;kg CO2 eq
+Human toxicity, non-cancer;0.00000;CTUh
+Resource use, fossils;1.70087;MJ
+Water use;0.00024;m3 depriv.
+Human toxicity, cancer - inorganics;0.00000;CTUh
+Ionising radiation;0.00000;kBq U-235 eq
+Land use;0.00000;Pt
+Ecotoxicity, freshwater - metals;0.00000;CTUe
+Human toxicity, cancer;0.00000;CTUh
+Ecotoxicity, freshwater - organics;0.00000;CTUe
+Human toxicity, cancer - organics;0.00000;CTUh
+Eutrophication, marine;0.00061;kg N eq
+Human toxicity, non-cancer - metals;0.00000;CTUh
+Climate change;0.11832;kg CO2 eq
+Ozone depletion;0.00000;kg CFC11 eq
+Climate change - Fossil;0.11832;kg CO2 eq
+Aquatic eutrophication EP(P);0.00000;kg P
+Global warming 100a;0.11832;kg CO2 eq
+Hazardous waste;0.00000;kg
+Human toxicity soil;0.00000;m3
+Human toxicity air;0.00000;person
+Acidification;0.01349;m2
+Radioactive waste;0.00000;kg
+Ozone formation (Human);0.00019;person.ppm.h
+Ozone depletion;0.00000;kg CFC11 eq
+Aquatic eutrophication EP(N);0.00015;kg N
+Bulk waste;0.00003;kg
+Ecotoxicity soil chronic;0.00000;m3
+Resources (all);0.00000;PR2004
+Ecotoxicity water acute;0.00000;m3
+Ozone formation (Vegetation);2.82389;m2.ppm.h
+Slags/ashes;0.00000;kg
+Human toxicity water;0.00000;m3
+Terrestrial eutrophication;0.03985;m2
+Ecotoxicity water chronic;0.00000;m3
+linear, land occupation;0.00000;points
+linear, land transformation;0.00000;points
+Natural resources (water only);0.00000;UBP
+Non renewable, primary;0.00000;MJ
+Renewable, potential;0.00000;MJ
+Non renewable, minerals;0.00000;MJ
+Renewable, water;0.00028;MJ
+Non renewable, fossil;1.82795;MJ
+Non renewable, metals;0.00000;MJ
+Renewable, solar;0.00000;MJ
+Non renewable, nuclear;0.00000;MJ
+Renewable, kinetic;0.00000;MJ
+Renewable , biomass;0.00000;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;1.70087;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, nuclear;0.00000;MJ
+Renewable, water;0.00000;MJ
+Renewable, water;0.00000;MJ
+Renewable, wind, solar, geothe;0.00000;MJ
+Non-renewable, biomass;0.00000;MJ
+Non renewable, fossil;1.80776;MJ
+Renewable, biomass;0.00000;MJ
+Non-renewable, nuclear;0.00000;MJ
+WDI;0.00000;m3
+Acidification;62.75122;H+ mmole eq
+Ozone depletion;0.00000;g CFC-11 eq
+Ecotoxicity;0.08169;g 2,4-D eq
+Global warming;118.32168;g CO2 eq
+Smog;2.72355;g NOx eq
+Indoor air quality;0.00000;g TVOC eq
+HH cancer;0.00000;g C6H6 eq
+Habitat alteration;0.00000;T&E count
+Eutrophication;0.06950;g N eq
+Water intake;0.00000;liters
+Natural resource depletion;0.24443;MJ surplus
+HH noncancer;0.00000;g C7H7 eq
+HH criteria air pollutants;0.00347;microDALYs
+Eutrophication (incl. fate);0.00188;kg PO4--- eq
+Freshwater aquatic ecotox. 500a;0.00000;kg 1,4-DB eq
+Photochem. oxid. (incl. NMVOC av.);0.00000;kg C2H4 eq
+Human toxicity 20a;0.00188;kg 1,4-DB eq
+Photochemical oxidation (MOIR, high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 100a;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Global warming 20a;0.11834;kg CO2 eq
+Human toxicity 100a;0.00188;kg 1,4-DB eq
+Human tox. (incl. PAH, Xylene & NMVOC av;0.00188;kg 1,4-DB eq
+Ozone layer depletion 25a;0.00000;kg CFC-11 eq
+Mar. aq. ecotox. (PAH, Xylene & NMVOC av;0.00000;kg 1,4-DB eq
+Ozone layer depletion 40a;0.00000;kg CFC-11 eq
+Global warming 500a;0.00000;kg CO2 eq
+Ozone layer depletion 15a;0.00000;kg CFC-11 eq
+Ozone layer depletion (incl. NMVOC av.);0.00000;kg CFC-11 eq
+Photochemical oxidation (low NOx);0.00000;kg C2H4 eq
+Photochem. oxid. (incl. NOx & NMVOC av.);-0.00015;kg C2H4 eq
+Terr. ecotox. (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Terrestrial ecotoxicity 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. infinite;0.00000;kg 1,4-DB eq
+Marine aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Lower limit of net global warming;0.12617;kg CO2 eq
+Marine sediment ecotox. 20a;0.00000;kg 1,4-DB eq
+Freshwater sediment ecotox. 500a;0.00000;kg 1,4-DB eq
+Human toxicity 500a;0.00188;kg 1,4-DB eq
+Marine sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Ionising radiation;0.00000;DALYs
+Ozone layer depletion 30a;0.00000;kg CFC-11 eq
+Ozone layer depletion 5a;0.00000;kg CFC-11 eq
+Freshwater sediment ecotox. 100a;0.00000;kg 1,4-DB eq
+Marine sediment ecotox. infinite;0.00000;kg 1,4-DB eq
+Abiotic depletion (elem., reserve base);0.00000;kg Sb eq
+Land competition;0.00000;m2a
+Photochemical oxidation (EBIR, low NOx);0.00000;kg C2H4 eq
+Marine sediment ecotox. 500a;0.00000;kg 1,4-DB eq
+Upper limit of net global warming;0.12617;kg CO2 eq
+Fw. aq. ecot.  (PAH, Xylene & NMVOC av.);0.00000;kg 1,4-DB eq
+Ozone layer depletion 20a;0.00000;kg CFC-11 eq
+Photochem. oxid. (MIR, very high NOx);0.00000;kg C2H4 eq
+Terrestrial ecotoxicity 500a;0.00000;kg 1,4-DB eq
+Global warming 100a (incl. NMVOC av.);0.11832;kg CO2 eq
+Acidification (fate not incl.);0.00110;kg SO2 eq
+Freshwater aquatic ecotox. 20a;0.00000;kg 1,4-DB eq
+Ozone layer depletion 10a;0.00000;kg CFC-11 eq
+Abiotic depletion (elem., econ. reserve);0.00000;kg Sb eq
+Marine aquatic ecotox. 500a;0.00000;kg 1,4-DB eq
+Malodorous air;0.00000;m3 air
+Freshwater aquatic ecotox. 100a;0.00000;kg 1,4-DB eq
+Abiotic depletion (fossil fuels);1.70098;MJ
+Global warming (GWP100a);0.11832;kg CO2 eq
+Terrestrial ecotoxicity;0.00000;kg 1,4-DB eq
+Marine aquatic ecotoxicity;0.00000;kg 1,4-DB eq
+Photochemical oxidation;0.00000;kg C2H4 eq
+Ozone layer depletion (ODP);0.00000;kg CFC-11 eq
+Human toxicity;0.00188;kg 1,4-DB eq
+Abiotic depletion;0.00000;kg Sb eq
+Eutrophication;0.00020;kg PO4--- eq
+Acidification;0.00078;kg SO2 eq
+Fresh water aquatic ecotox.;0.00000;kg 1,4-DB eq
+WSI;0.00000;m3
+HH, distribution;0.00000;DALY
+HH, marginal;0.00000;DALY
+Water use;0.00024;m3
+Heavy metals into air;0.00000;UBP
+Carcinogenic substances into air;0.00000;UBP
+Pesticides into soil;0.00000;UBP
+Mineral resources;0.00000;UBP
+Heavy metals into soil;0.00000;UBP
+Water pollutants;0.00000;UBP
+Radioactive substances into air;0.00000;UBP
+Noise;0.00000;UBP
+Non radioactive waste to deposit;0.00000;UBP
+Energy resources;6.30541;UBP
+POP into water;0.00000;UBP
+Global warming;0.00000;UBP
+Water resources;0.00034;UBP
+Radioactive waste to deposit;0.00000;UBP
+Ozone layer depletion;0.00000;UBP
+Radioactive substances into water;0.00000;UBP
+Land use;0.00000;UBP
+Main air pollutants and PM;61.18244;UBP
+Heavy metals into water;0.00000;UBP
+Human toxicity, cancer effects;0.00000;CTUh
+Acidification;0.00116;molc H+ eq
+Water resource depletion;0.00000;m3 water eq
+Mineral, fossil & ren resource depletion;0.00000;kg Sb eq
+Human toxicity, non-cancer effects;0.00000;CTUh
+Photochemical ozone formation;0.00157;kg NMVOC eq
+Climate change;0.11832;kg CO2 eq
+Marine eutrophication;0.00061;kg N eq
+Freshwater eutrophication;0.00000;kg P eq
+Freshwater ecotoxicity;0.00000;CTUe
+Land use;0.00000;kg C deficit
+Ionizing radiation E (interim);0.00000;CTUe
+Terrestrial eutrophication;0.00668;molc N eq
+Ionizing radiation HH;0.00000;kBq U235 eq
+Particulate matter;0.00001;kg PM2.5 eq
+Ozone depletion;0.00000;kg CFC-11 eq
+IPCC 2021 AGWP 20;0.00288;pW m^-2 yr 
+IPCC 2021 CGTP 50;0.00063;yr*kg CO2 eq
+IPCC 2021 AGTP 50;0.00005;pW m^-2 yr 
+IPCC 2021 GWP 20;0.11834;kg CO2 eq
+IPCC 2021 GTP 50;0.11832;kg CO2 eq
+IPCC 2021 GWP 100;0.11832;kg CO2 eq
+IPCC 2021 AGTP 100;0.00005;pW m^-2 yr 
+IPCC 2021 GWP 100 (according to UNFCCC/Kyoto Protocol);0.11832;kg CO2 eq
+IPCC 2021 CGTP 100;0.00076;yr*kg CO2 eq
+IPCC 2021 AGWP 500;0.03715;pW m^-2 yr 
+IPCC 2021 AGWP 100;0.01059;pW m^-2 yr 
+IPCC 2021 GWP 500;0.11832;kg CO2 eq
+IPCC 2021 GTP 100;0.11832;kg CO2 eq
+16:37:23.597 [32m[main][0;39m [34mINFO[0;39m org.openlca.core.database.Derby - database closed

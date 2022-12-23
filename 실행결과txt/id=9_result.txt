@@ -1,0 +1,84 @@
+Connection successful
+com.mysql.cj.jdbc.ConnectionImpl@7a5ceedd
+SELECT * FROM user_info
+
+
+----------------------------User DB Infomation(in HTML)----------------------------
+id: 9
+project_name: project_test21133
+product_name: product_test21133
+fu: 펠렛 1ton 생산
+product_amount: 1.233000
+
+15:16:08.889 [32m[main][0;39m [31mWARN[0;39m org.openlca.nativelib.NativeLib - could not find native libraries in classpath and C:\Users\KETI\openLCA-data-1.4
+15:16:08.894 [32m[main][0;39m [34mINFO[0;39m org.openlca.core.database.Derby - initialize database folder C:\Users\KETI\openLCA-data-1.4\databases\test1012_copy, create=false
+
+
+---------------------------openLCA DB Open & Connect User Input---------------------------
+method All:
+Crustal Scarcity Indicator
+IPCC 2013 GWP 100a (incl. CO2 uptake)
+USEtox 2 (recommended only)
+USEtox 2 (recommended + interim)
+TRACI 2.1
+Selected LCI results, additional
+Selected LCI results
+ReCiPe 2016 Midpoint (I)
+ReCiPe 2016 Midpoint (H)
+ReCiPe 2016 Midpoint (E)
+ReCiPe 2016 Endpoint (I)
+ReCiPe 2016 Endpoint (H)
+ReCiPe 2016 Endpoint (E)
+Pfister et al 2010 (ReCiPe)
+Pfister et al 2009 (Water Scarcity)
+Pfister et al 2009 (Eco-indicator 99)
+Motoshita et al 2010 (Human Health)
+IPCC 2013 GWP 20a
+IPCC 2013 GWP 100a
+IMPACT 2002+
+Hoekstra et al 2012 (Water Scarcity)
+EPS 2015dx
+EPS 2015d
+EPD (2018)
+Environmental Prices
+EN 15804 +A2 Method
+EF Method (adapted)
+EF 3.0 Method (adapted)
+EDIP 2003
+Ecosystem Damage Potential
+Ecological Scarcity 2006 (Water Scarcity)
+Cumulative Exergy Demand
+Cumulative Energy Demand (LHV)
+Cumulative Energy Demand
+Berger et al 2014 (Water Scarcity)
+BEES+
+CML-IA non-baseline
+CML-IA baseline
+Boulay et al 2011 (Water Scarcity)
+Boulay et al 2011 (Human Health)
+AWARE
+Ecological Scarcity 2013
+ILCD 2011 Midpoint+
+IPCC 2021 AR6
+
+
+product name: pellet_1.0kg / target amount: 1.2330000400543213kg / LCIA method: CML-IA baseline
+
+
+
+----------------------------------LCA Calc Result----------------------------------
+The total inventory result of the given flow - Top 10:
+Packaging waste  -> 1.55975262
+Waste, industrial  -> 0.25165766
+Carbon dioxide  -> 0.00702747
+Coal, hard  -> 0.00253319
+Waste, unspecified  -> 0.00066002
+Natural gas leakage  -> 0.00032454
+Oil, crude, in ground  -> 0.00031371
+Water (fresh water)  -> 0.00029927
+Sulfur oxides  -> 0.00002350
+Chloride  -> 0.00001887
+
+Global warming (GWP100a)  -> 0.007176 kg CO2 eq
+
+15:16:11.890 [32m[main][0;39m [34mINFO[0;39m org.openlca.core.database.Derby - database closed

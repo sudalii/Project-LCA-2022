@@ -1,0 +1,146 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.openlca</groupId>
+		<artifactId>olca-modules</artifactId>
+		<version>2.0.0</version>
+	</parent>
+	<artifactId>olca-ipc</artifactId>
+	<packaging>jar</packaging>
+
+	<dependencies>
+
+		<dependency>
+			<groupId>org.openlca</groupId>
+			<artifactId>olca-core</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.openlca</groupId>
+			<artifactId>olca-io</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.nanohttpd</groupId>
+			<artifactId>nanohttpd</artifactId>
+			<version>2.3.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.9.0</version>
+		</dependency>
+
+	</dependencies>
+
+	<profiles>
+		<profile>
+			<id>server-app</id>
+			<activation>
+				<activeByDefault>false</activeByDefault>
+			</activation>
+
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-jar-plugin</artifactId>
+						<version>3.1.0</version>
+						<configuration>
+							<outputDirectory>${project.build.directory}/dist</outputDirectory>
+							<archive>
+								<manifest>
+									<mainClass>org.openlca.ipc.Main</mainClass>
+								</manifest>
+							</archive>
+						</configuration>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-dependency-plugin</artifactId>
+						<version>3.1.1</version>
+						<executions>
+							<execution>
+								<phase>package</phase>
+								<goals>
+									<goal>copy-dependencies</goal>
+								</goals>
+								<configuration>
+									<outputDirectory>${project.build.directory}/dist/lib</outputDirectory>
+									<includeScope>runtime</includeScope>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.codehaus.mojo</groupId>
+						<artifactId>license-maven-plugin</artifactId>
+						<version>1.16</version>
+						<executions>
+							<execution>
+								<phase>package</phase>
+								<goals>
+									<goal>add-third-party</goal>
+								</goals>
+								<configuration>
+									<outputDirectory>${project.build.directory}/dist</outputDirectory>
+									<excludedScopes>test</excludedScopes>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-antrun-plugin</artifactId>
+						<version>1.8</version>
+						<executions>
+							<execution>
+								<phase>package</phase>
+								<goals>
+									<goal>run</goal>
+								</goals>
+								<configuration>
+									<target>
+										<echo file="${project.build.directory}/dist/run.bat">
+<![CDATA[
+@echo off
+
+rem : set the port and database folder
+set port=8080
+set database=db
+
+
+set java_args=-Xmx3584M -classpath ".\*;lib\*" -Dorg.slf4j.simpleLogger.defaultLogLevel=debug
+set command=java
+if exist jre (
+    set command=jre\bin\java.exe
+)
+echo %command% %java_args% org.openlca.ipc.Main -port %port% -db %database%
+%command% %java_args% org.openlca.ipc.Main -port %port% -db %database%
+]]>
+										</echo>
+										<copy todir="${project.build.directory}/dist">
+											<fileset dir="${env.OLCA_JULIA}"
+													 erroronmissingdir="false"
+													 includes="*.dll"/>
+										</copy>
+										<get src="https://www.gnu.org/licenses/gpl.txt"
+											 dest="${project.build.directory}/dist/LICENSE.txt"
+											 skipexisting="true"/>
+									</target>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+
+</project>

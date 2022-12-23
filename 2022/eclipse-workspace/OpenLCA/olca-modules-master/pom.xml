@@ -1,0 +1,146 @@
+﻿<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.openlca</groupId>
+	<artifactId>olca-modules</artifactId>
+	<version>2.0.0</version>
+	<packaging>pom</packaging>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<url>http://www.openlca.org/</url>
+
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/GreenDelta/olca-modules/issues</url>
+	</issueManagement>
+
+	<licenses>
+		<license>
+			<name>Mozilla Public License, Version 2.0</name>
+			<url>https://www.mozilla.org/en-US/MPL/2.0/</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<scm>
+		<connection>scm:git:https://github.com/GreenDelta/olca-modules.git
+		</connection>
+		<developerConnection>scm:git:git@github.com:GreenDelta/olca-modules.git
+		</developerConnection>
+		<url>https://github.com/GreenDelta/olca-modules</url>
+	</scm>
+
+	<developers>
+		<developer>
+			<id>msrocka</id>
+			<name>Michael Srocka</name>
+			<email>srocka@greendelta.com</email>
+			<organization>GreenDelta</organization>
+			<organizationUrl>http://www.greendelta.com</organizationUrl>
+			<roles>
+				<role>owner</role>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+		<developer>
+			<id>sgreve</id>
+			<name>Sebastian Greve</name>
+			<email>greve@greendelta.com</email>
+			<organization>GreenDelta</organization>
+			<organizationUrl>http://www.greendelta.com</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>+1</timezone>
+		</developer>
+	</developers>
+
+	<modules>
+		<module>olca-core</module>
+		<module>olca-ecospold-1</module>
+		<module>olca-ecospold-2</module>
+		<module>olca-formula</module>
+		<module>olca-git</module>
+		<module>olca-ilcd</module>
+		<module>olca-io</module>
+		<module>olca-ipc</module>
+		<module>olca-proto-io</module>
+	</modules>
+
+	<dependencies>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.36</version>
+		</dependency>
+
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+			<version>1.2.11</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13.2</version>
+			<scope>test</scope>
+		</dependency>
+
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.7.0</version>
+				<configuration>
+					<source>17</source>
+					<target>17</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>3.0.1</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.2.0</version>
+				<configuration>
+					<notimestamp>true</notimestamp>
+					<additionalOptions>-Xdoclint:none</additionalOptions>
+				</configuration>
+				<executions>
+					<execution>
+						<id>attach-javadocs</id>
+						<goals>
+							<goal>javadoc</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

@@ -1,0 +1,1632 @@
+Signature-Version: 1.0
+Created-By: 11.0.10 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: YQ0x1gM7vBpiNyex++RiM9x5NySGJN9owb1tX8iIvkY=
+SHA-256-Digest-Manifest-Main-Attributes: 15xu9GWlebHIDItpW0NFN9Z8iMOi+Ee
+ MOJoorWz0mas=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/hidpi/lock-open.png
+SHA-256-Digest: Ipdnid+oOqqE4no1VESoGjPs1Rc57GeYBCUhARBZtHg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/tt.js
+SHA-256-Digest: doyRonlQyXq3JK2Sw07l2gSa/Aeyhcap8824PDicPWY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/jquery.js
+SHA-256-Digest: JIUf37hEzZonY6gDLMTUH7841LpEWMr4XZOL4vndSdo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/mag
+ icline/images/hidpi/icon-rtl.png
+SHA-256-Digest: zi4YT/XkxKKEtsrMljYyAEEIGK6ctK47sFpz4p2x4Ug=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/dia
+ log/dialogDefinition.js
+SHA-256-Digest: 5f5eXnHnDSLNL/QsokIdFytOaueU/7mJxonYozINiS0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/build-confi
+ g.js
+SHA-256-Digest: H0xEkjXfbi0xfmeV6Vur73iA277I+e/JAdMAo7d87oY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/fa.js
+SHA-256-Digest: eK003huk6fhPEhSjccLiZy8cCHc47hDByHSK/vIl2tc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/dialog.css
+SHA-256-Digest: hhB093SntG1MjhQn713w87125CAJOKX1rF2B9LRBotE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/az.js
+SHA-256-Digest: 36QTkz3W+JsL6xbGEarv4fK6phwcTEkfZORKpzjeTk8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/da.js
+SHA-256-Digest: wMi3BYoPTJla4gMMZN1glb6DfVsrGMdflYiP/8QI3Is=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_h1.png
+SHA-256-Digest: pQCE7DrdT/e+Q4887MDlIJVZ25+i0tQfoQvnnriTRnY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /dialogs/tmpFrameset.html
+SHA-256-Digest: lAPM9z0rSmBZt+2v6FsN8m8tHpaxx9NHOALk/799PpA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /dialogs/wsc_ie.js
+SHA-256-Digest: h8KGp15nYQ6CTO24hGnvoOhxfeYsSTw7VFJuMjBUADI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/checkbox.js
+SHA-256-Digest: XjpMC2shgeLrmU/nHIaGnJ/TMP/EgJ6dkmobRFVvPBs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/dialogs/smiley.js
+SHA-256-Digest: Kz4qKC1tOWdDA/Qpu0q/JMiDGZIFYIeTKmWd2GJepzA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/zh-cn.js
+SHA-256-Digest: J3gFTpB8xkvJNVuPjYPkqRvoBOIPYeMKmKbPAa/7wIQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/vendor/prom
+ ise.js
+SHA-256-Digest: KHgv6ozOn9xshFJ0O/590zpKwzdqhnTayjRBqFqHdME=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/template.html
+SHA-256-Digest: mR4+h9HTgb/B43ZENBi13k2Uic0Hna2/WhN7Ld3n2Uc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/broken_heart.png
+SHA-256-Digest: Q40Q6LyL0zaCyHke7DC4iUi4uaERtEEPaWWM5mvEy+M=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/NewLineIn
+ struction.class
+SHA-256-Digest: Oig9mpNtOnVO3HUEhEPVU8lEupmxtDRUCW4NS43T6hA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/mk.js
+SHA-256-Digest: 2MoR8AFet5cwiM95wZ2j7ayfms3vBvb0i/pul772hqY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/zh-cn.
+ js
+SHA-256-Digest: cWfoCM3B6OgMM+PdCYMahNeJVpjz0m0qCPjyFhkyEZo=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$2.class
+SHA-256-Digest: nknzpP7cfxoivZPNxobVbYj5NAJXrJ+QMy0sxDYgMhE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/col
+ ordialog/dialogs/colordialog.js
+SHA-256-Digest: I7wGcM0Ils9nNATa/Ce+BQRrjp6dlFS791RPgM0pH7g=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ru.js
+SHA-256-Digest: +SYSXNGlXJRr7wY1Ted0CXlAUUlpYKxJ2jmVDUFfdAs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/si.js
+SHA-256-Digest: eEILXWCNSEe9gK3iQwkTE8C2+AOjvTTLQSkXy+oOU80=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$3$2.class
+SHA-256-Digest: VwyVYdofI5vUbHbdEQ45YJsdDHFJ2NCAzB0OpWJyyYs=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$3.class
+SHA-256-Digest: gsuBnXcXxfuhMq6Ek8CxRQMXW3e/aE/PA9TGIIgisyY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/contents.cs
+ s
+SHA-256-Digest: m5KIGr4qQkDApZAxPhf/i675XaCm5JAFqODGnIKlTk0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_address.png
+SHA-256-Digest: kIoA5NGyIu3IWdeRur/VBIgicCiy0cfS/oVbg2RsOOo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/lt.js
+SHA-256-Digest: PJBEYxGN9AwdGqiKphSKhvWtewu3ek1zPKrleX0KV3o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/uk.js
+SHA-256-Digest: 3CBXbjb420yQzIPpEKzXZ9sLxlc1VpsZnVV5JDnbgkE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/_translationstatus.txt
+SHA-256-Digest: 0+GvYvFMXswgHPee59KGAHVg+mTN43M8+VwXjQlPdb4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/dialog_ie8.css
+SHA-256-Digest: KCR1/fNxKCH+M/Hqaj/YnlSJ4xlQ7qSlIOuXCrBg+eg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/LICENSE.md
+SHA-256-Digest: 8z1b/eqivWtj3n1AybRDC+lmG8bvS6nJrhL4J81Khq4=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/SpanElement$SpanType.c
+ lass
+SHA-256-Digest: fhiSKPtBwcYzpvOjUFj7vjsmWOud+A2EieUCly4NiOA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/es.js
+SHA-256-Digest: 1DwGrQ5EYu4zZA+A00sAwxPbw9wW0aR+cmOjTg/TO5k=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/embarrassed_smile.gif
+SHA-256-Digest: ARQE9REwkRpaCVn/d9KiMyDx4MkHY2Ddqa0idMPc4Jk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/a11yhelp.js
+SHA-256-Digest: 1lKIJC6itssqxpKscMyHflKTeWB40uwlnY8Sul0C+6w=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$9.class
+SHA-256-Digest: FmQ/jWTNRvvs/2OjG+RkIU/FDDVJIEqbogdAUC6V+9Y=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tab
+ le/dialogs/table.js
+SHA-256-Digest: cGPhkxkLGDhbpanOp14R3EyNdfWqO8nLx78QQhmeBtA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/ima
+ ge/dialogs/image.js
+SHA-256-Digest: hbbVT3PzoLYgpNawY/PPcUhrIlpx5YBloXL407Eoqwk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/config.js
+SHA-256-Digest: jSRV1hy5cTqoHmIuxW/AWf50GjRgGELL5ItXkkVNnyE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/et.js
+SHA-256-Digest: MB7f4uvbb99RltuS+NYxl+vKwXi+YCuI89ENFdzeMKw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/si.js
+SHA-256-Digest: LEEydcLI3BOSFkiT3vKaffm+kZJLHzJ2O+UGnHGhBoQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/angel_smile.png
+SHA-256-Digest: pZTRRJAOE6izYlVdZPJ/QCQSaDqEyqHDu2r1yK1SOWU=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$7.class
+SHA-256-Digest: aQ2TYnjmXPp58bizWamSYhUv8ZtTBz+zelLcocgZt2k=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/wink_smile.png
+SHA-256-Digest: ZtGFaEqXqSxj6fCVDdJflhzJy8RjJxTd9TAvSmzInQk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/af.js
+SHA-256-Digest: WQn96a2ghI44j3ELIwN3ssFK+sHUMDI/3dMTcVos1Bk=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/ResourceHelper.class
+SHA-256-Digest: MSOLaZ5ti0nMilKCgynx1mUfhJxDP0lLBXG71g+pWYA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/sv.js
+SHA-256-Digest: 0wOFsWglccyj2AfE5fVtsvUT0Fd7gTPILxVWSOPbjyI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /LICENSE.md
+SHA-256-Digest: DA3B7L5/TYZnytUVCv6OIqz5rtj+f+okVNr2RYTA14s=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/sk.js
+SHA-256-Digest: wvlYr7/6z+Ke8Zo5aHnTjN3F4jVDiHVAGRYvlhoExIs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_h2.png
+SHA-256-Digest: 7QRySxGMQEcCKpysWQOhxOBcD6VqxGaQUkTKEM665ds=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/teeth_smile.gif
+SHA-256-Digest: x514hVUG22fOVG0dD+qupJQukMBSfMADMFe/Gx3XZ3Q=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/Paragraph
+ Instruction.class
+SHA-256-Digest: Snc3KLDJBXa8wUBbnBB2s0B5ekiccbuz0/bJFTrhaas=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/zh.js
+SHA-256-Digest: vcUl0bxlFCxhYzFlu+rURNTkJDkpiC/uPcZZCTUMdAs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/editor_iequirks.css
+SHA-256-Digest: +9kOjAsr66oltmrcP96uhygGtOov/v3t4ATvdzEcuks=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/eo.js
+SHA-256-Digest: fIEbnnjYuQU1Pz6a7OAV7UjIHQ2muegGF4ms/QIKWW0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/hidpi/refresh.png
+SHA-256-Digest: YCSxRraxaZslmWB4FQLah8vb+TQTg4NeKbviHppByBo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/pt-br.
+ js
+SHA-256-Digest: yRRaYjhrknMIuuD9o4Mxt00adjv8g43bNjNqERl0FmY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/eu.js
+SHA-256-Digest: VrvU3EQkhNvSW+PAIqg/KeeT084kYWbGQRQBjnv3iq8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ca.js
+SHA-256-Digest: qxIAX6nj1XMy+vEC2boyiwBAL5aWVpNCzm0eUAQtvWQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/lv.js
+SHA-256-Digest: NklNVQR3PSLFhMvzSSi+z0IdfOxaWZMPbwWhGtaWf5o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/no.js
+SHA-256-Digest: JMttnwlenpfEHmHx3GUy++lhk3qqQ2VKvOGZLyd0pm0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/gl.js
+SHA-256-Digest: IFwyWXzlxqCK+tpt/ysmK6kMjbR9UFJ1ksbVnaHZ5QI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/no.js
+SHA-256-Digest: 6gdV14Fl+bO69899THq049O1x90QAsij5OmCQw+R8aI=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextViewer$1.class
+SHA-256-Digest: QKozI4/D+qgHlcV5/qH2gOZyIrdjrhOpkMX10OOt2ws=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$4.class
+SHA-256-Digest: Z7rD9NETdpMyFlBOHYcA8ZPZ+82unZc9cMzCD2VmuMU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/fa.js
+SHA-256-Digest: yj4et8pRm3xUmD1vmBBpMvv7HbSTLDIDlrhA4x6zDd0=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/AlignmentStyle.class
+SHA-256-Digest: Dh3hQzwsH0ibvfHtfPiDJIzIyfH7EukmLm5gFu1Iktc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tem
+ plates/dialogs/templates.js
+SHA-256-Digest: RAfvNVCmeklPhzI2u3gpJPUzHjbszClhuQRUFmSS1Ps=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/BoldPaint
+ Instruction.class
+SHA-256-Digest: kJ9NapGAP8RLOilzaq9H30MBz2xr57WohtuHqjU79Sk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/lightbulb.gif
+SHA-256-Digest: 1eAe1DGWXKD0FtZIX4Vyi6Ok+8u0fwRU79/GImopWlg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellEditor$1.class
+SHA-256-Digest: iKt4zwCjHtIlokNFc74JAGuyLFyDmw/8BcpR2kp4+As=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/it.js
+SHA-256-Digest: R6NSGSl4NQ1G9sFK9K1+ONZdd8VTbwWHiRlnRCcG/9E=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/README.md
+SHA-256-Digest: /xxdPqkuskIN8O5ikkVkPYLnQMHSipCmViJWRvQbaMg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ru.js
+SHA-256-Digest: wPQ8PU3qQvEbIWxZvMBs0a5iz6GB7Od6Z4vAQC0uyFU=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/SpanElement.class
+SHA-256-Digest: lJUW0vfVdp6Nbcq7WxW2LjoeO+KeQbf5EzXD0YUeON4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ku.js
+SHA-256-Digest: IEMo0GYAeR92835aQxFxUD475lhTW8pyr6vnGAi8wJw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/pl.js
+SHA-256-Digest: BKh5ec0GpncDrGqIaSOk9+vhxXStrw6HgjB/t/8r5No=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/ResetSpan
+ StylePaintInstruction.class
+SHA-256-Digest: 0rRAv5VmTEOk4iGKEYO6qMdqEbvb7I0sxr3Q2ZfjOxQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/zh.js
+SHA-256-Digest: vyzdrKy+PtSR7oKBGf045QSJ7Y3VYZWTMAoYYo2Z6To=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/en.js
+SHA-256-Digest: VkC1LYaWgy9Pie3HYuVZFl2drnvON24PS1xcQkGAqec=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/en-ca.
+ js
+SHA-256-Digest: E/o8kfGEO2bO2wqbm40SQ0gAet6lEfr/Wb0KjGHBuwo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ro.js
+SHA-256-Digest: GsfioRylCQekLjxiJ0j46dPu8e3pEk746GNp6uAFzNQ=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellLabelProvider$1.cl
+ ass
+SHA-256-Digest: Wlq6WpP5Ei6Q6ppgEWWtIQv0bqH3EpjZ2qXU7tz79jM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/gl.js
+SHA-256-Digest: fPHrzKN26vS3iRJRmCG8q/6tHO4q2Nr35ezVZ+hKJiI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/CHANGELOG.md
+SHA-256-Digest: NDtXVcWlqCQvrz1ug7wVHEAzmE5zWyPI8E8Siqxaf2o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/et.js
+SHA-256-Digest: G6NTRZs5B6AD1JwqDhwLjwCTh2KK7tB5ZUBRURfDq7o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/editor.css
+SHA-256-Digest: +uj2K2J380trTYUHXeAPU62NYdgIhh7nv3uxJGtGsUE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/kiss.png
+SHA-256-Digest: X71jXhhTEYrN5jnnOrzxDbnn93RtY/7iaGY0v1tz/+k=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/az.js
+SHA-256-Digest: ETj9M0UhD2jmUpCZ/J8lB0qtugvw2VefsVXdSx+5Uyo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/cs.js
+SHA-256-Digest: WKptwu7RrEge0JXyohO+Qij6jhV3xA6fu4NWkdMPPDQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ug.js
+SHA-256-Digest: o9wuKnWfvW01WHplvoBGre0X4sBFYBTqJWZpVrqVIUs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/confused_smile.gif
+SHA-256-Digest: 8988xeP0Xk4aCUssKJoI4mx6x2RUuhHWGd/SUEk+L00=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$FocusOutFunctio
+ n.class
+SHA-256-Digest: owYDdthLzqaKObarVLINIOQEtOa4+rxDdLSFj5F2Mzk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/fla
+ sh/images/placeholder.png
+SHA-256-Digest: EwFpxl+41be2R4LLGkKaV2hs8f0IfQ/13Sa2GsrDNh0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/onc
+ hange/plugin.js
+SHA-256-Digest: KPN82UGDTQqbga5BXi88zZBFvtNj26O6eVO9eWUqxcg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/dialogs/options.js
+SHA-256-Digest: 1aM/EYo2ia/gTyZcG0N/F0c2M27gq/eNLEZQKDSA23A=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/id.js
+SHA-256-Digest: 6bgWcvl2i4Uz3U48RjpyMt4ILcYU1+YxESYY0lIbY8U=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/bg.js
+SHA-256-Digest: FlyyBO6erAPo4yVT4dajAboJHcERI2Aoo3AIbkQOMAo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/id.js
+SHA-256-Digest: o6Zaj4d1SJT6sembHjqwynwcdCIYSdhs5Hb/kxiQHnw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/hr.js
+SHA-256-Digest: EmHWeaNFrrKO/7oIbSuKgeCMjanaCmVsg2i3xo93KYk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/lin
+ k/dialogs/link.js
+SHA-256-Digest: RqOEAZQ06aHw67PjvH0BAJWsonpE/p4tnol17at2tUY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/es-mx.js
+SHA-256-Digest: NtX804RXqroMERswXtuGs+LiYwzgsiY95mnQQWtQsW4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/select.js
+SHA-256-Digest: LGKHLMQzemOVdOxm0ngevI/h4Pu+DGRwPteACgwjQqE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/devil_smile.gif
+SHA-256-Digest: 9BnBJ8Vvx3yzLhLdxLf+nbdjBvV+ajmUCa1Nhma4H1s=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/eu.js
+SHA-256-Digest: HB8HOsG7huBDLh6EjrIYCnqvxj3ImmaedNZtvlECRR0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/specialchar.js
+SHA-256-Digest: 240sIK4Vl0nWCD/5oaEgUe+qXuaAwEdL1BsGhMiBmUg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellLabelProvider$2.cl
+ ass
+SHA-256-Digest: RWLHvN7UEP+6jLzBYOX+tnxng0/9j31UcnfQtV96mIg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter.class
+SHA-256-Digest: Qa2kM0jWoHMICYFlZcA4rsS0S+hkKZt1PIEkYP9JAZg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditorConfiguration$1.
+ class
+SHA-256-Digest: /uVuf4dTwnoo/t/JMkP69pY9Vgreqsj/R8uxnHe7/4g=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/shades_smile.gif
+SHA-256-Digest: doixY0oNZJet6t74HeetJ7lLlK0QlxBDllFrxhwnwOw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tab
+ leselection/styles/tableselection.css
+SHA-256-Digest: 3HHZXn0TWbi4Ny+GWGfhujTTJRxFi6daNVOtCIQnK2E=
+
+Name: org/eclipse/nebula/widgets/richtext/toolbar/ToolbarConfiguration$1
+ .class
+SHA-256-Digest: Shvc+SLJdPRMAa7zpZXlVNmOq6+iMMMDJVuw3mvVRew=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/sr.js
+SHA-256-Digest: sjyL4MbJE8RyFLOpHjVBV5bjQvmUR3oKZYJWIDPXUsU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/pt-br.js
+SHA-256-Digest: I8VgvPm/BOmilk6e0DJvP/RCSVTbPxn0aeEaluTL6PY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ar.js
+SHA-256-Digest: YK85NS5mpq1T1rI9v+CtkldsJgdbGyuPWRmy7XfDXao=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/en-ca.js
+SHA-256-Digest: yTXDVBhW78Pm5LvzMBhMhquKmUoCPSCOXcYfL/4GEVs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/fr.js
+SHA-256-Digest: 67gWfFoVTIlSKZ9qVYdnRmdfMZrKD7h7LWr4splxoIU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/hu.js
+SHA-256-Digest: Ks/Xl22s2zsbTfZTEboJqUQCBRdvoqcnPPmZZ4Erjxg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$7.class
+SHA-256-Digest: NMnWAJg2oHIboBgCwUE+08f71AFf+ODn2gLBKxY5/pE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/mn.js
+SHA-256-Digest: OlKKCaT3uGWYsMTle3IuSqq3mMUaVWxfq6wKuM6jucE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ko.js
+SHA-256-Digest: c0+lmpg3LOWhvjGIGXjETwUiS/iHhEuOHgiPLtE2JdY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/mag
+ icline/images/icon-rtl.png
+SHA-256-Digest: RZtElJPA6y/iIuYGV5d5lHQBK9OU2kkH87/E47NAHr4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/form.js
+SHA-256-Digest: jDy46MJj/WNZ+Kgam0XkB6TaQDfrbXdQjxsK7A8hUes=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/fo.js
+SHA-256-Digest: wWw867FOkocyebIILdpF/EXNuHsjRIensTggNOZAPhc=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextViewer.class
+SHA-256-Digest: HsohGhBBBFDGgnXC9e5o64mlFesSwIosqf1+Q5WS6E8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/skins/moono-lisa/scayt.css
+SHA-256-Digest: LItxBoxpL0zw3petJREylX3wJtR+0WZGjshzbowTSag=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$1.class
+SHA-256-Digest: 16/xtcL1QZXwmYh784EmgjzJ0W19pgLNJ9M+qyWsdvc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/regular_smile.gif
+SHA-256-Digest: ExyS+UUCqsu3NTZnZcjhFbG6uX7hswJSb+2BItZBrCU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/ima
+ ge/images/noimage.png
+SHA-256-Digest: gPiYRTWJEQX/rTxia2o2sz/2zcgA/b8MpVVnscXOrDQ=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/ResourceHelper$2$1.cla
+ ss
+SHA-256-Digest: PijIlBRNkduBayCQErBvYJuZ0ei7AYdaAwbEtdKT74Q=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/whatchutalkingabout_smile.gif
+SHA-256-Digest: QfaEz1GtfWsWJYS+pS0px6dKNorkXHSy5DXMN4JzicQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/sk.js
+SHA-256-Digest: h5HhDx11OqsFVJ7csQOMe7mgDcTTqqFJwpVtbed2HrY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_p.png
+SHA-256-Digest: XH0pexXv9SNYMhvLR82DVK1HGFuZHr/NkZOXqOelCMw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wid
+ get/images/handle.png
+SHA-256-Digest: 36WFqiIOvMykUrTic/MteEPrR7NsIUQiu6VwEiozJkw=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/ResourceHelper$Finder.
+ class
+SHA-256-Digest: IlLE9TUkX8BqMS2ntnytfNv0E+/PuMLF0Zgbl3WNlpw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/bs.js
+SHA-256-Digest: BVRm6oMerNTyKnfBfprlsTbc3AdCyZ5mBGMIUshO7dk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/de.js
+SHA-256-Digest: 0rGWpQHMfaTp+yBvvH+r1M2KJX1Q88ocjJvZsuQzv3I=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/cy.js
+SHA-256-Digest: bg2Cfs7OcbU9W+dil9skqwhUnHd9XwUIagjmcu/JfQU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/de-ch.js
+SHA-256-Digest: C0uJbH+wkw+0StCd5+mwnbrHzemKFh5xRKo2i3zlXH0=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/TagProcessingState$Tex
+ tAlignment.class
+SHA-256-Digest: SOUIffp8WQB7HOiA201H8inXSoFsHSDnoduOYaDxIdk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/en-au.js
+SHA-256-Digest: 1T3rro0Uhk6I0ueweohur4yJ6CtjSxD9Z352zSmhycI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/onc
+ hange/docs/styles.css
+SHA-256-Digest: 29HrsKbUAOVEB0DIadGVP9itc3bxZ14kD2EzUGj0O2s=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$FocusInFunction
+ .class
+SHA-256-Digest: D6ZyA/TAQ0AJsZXa06/0k4x4WNztPAY8gMy6d6r9Hfw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/mag
+ icline/images/icon.png
+SHA-256-Digest: LYcMxdLMZoyqOpMWuYmP6hYQpAEsPlHj86ft47cH9WQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/lis
+ tstyle/dialogs/liststyle.js
+SHA-256-Digest: EHN/RSEN3X3Gmd28UtHmritL6i3v12gNp7UsaI8k2BA=
+
+Name: org/eclipse/nebula/widgets/richtext/toolbar/ToolbarConfiguration.c
+ lass
+SHA-256-Digest: 7/CqLzgBXHmPTHar0xtoC58PX0v2cuRrKSqAAmtP0nQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/en.js
+SHA-256-Digest: nSb+TWwbe6g8rQHolnOVHJmFT8WmBoPVBoBYBockseg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$2.class
+SHA-256-Digest: fAPhW9qDk+47FngVmL61PBriqQnsK3tKGmc685fiDoo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/sv.js
+SHA-256-Digest: g5uKh05+h2KCESXiYcejq6sm0dC7FZL3leIx/gv6N1I=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/mag
+ icline/images/hidpi/icon.png
+SHA-256-Digest: cZwu2ZM4eA6HyhaKsa2GfCXjNULrieWA+LSbNO+b0fs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /README.md
+SHA-256-Digest: 8MZnFmkocyIWHVurGYlPe5D+w3Issiq4fQI11QNEqAw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/confused_smile.png
+SHA-256-Digest: DfKw8An1l1qwYFlexf9r3jr/ZwSXcr97D/iFq1vjmQ4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/angel_smile.gif
+SHA-256-Digest: JXNa+nmMICUaIoPaHChGcHW4aGcML7Tf2zl5IzqpP2w=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/CHANGES.md
+SHA-256-Digest: iswnkYl4hW74z6xBR2vGoU5PVWUXwsQdZDCpTkG8zm4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/cop
+ yformatting/cursors/cursor.svg
+SHA-256-Digest: jWmUhsufa1/1XdS4PT0ujFq1stDYxV4VWU3+ADLgRm0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/hr.js
+SHA-256-Digest: sYsdA5HeL5+8DEojPq/0+rCrj0d4cYspKrc6pot/cdU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/en-gb.
+ js
+SHA-256-Digest: MHceIjjAbBJUk2G7+L1Y0HOi8T3+otH9A35//CSEHeA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/cry_smile.gif
+SHA-256-Digest: jz+St8WeMDLeGxTfe88MRnhEOZxMIEGB17UT0sWhbkw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/is.js
+SHA-256-Digest: 5qsvstzpBsGzAP7ZYkMrQPZVVsZD75aBoR1UGhJqCI0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/th.js
+SHA-256-Digest: /8VXz0MD68HeUgFt/4u03d5hsobQRY/Xg9AR36D5mr4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ko.js
+SHA-256-Digest: nNnbO50Ei+uEdes2rMntHQzy05a8/WnwuoUCvrVTvyE=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$JavaExecutionFi
+ nishedFunction.class
+SHA-256-Digest: c4cGRDmKdFu2GfzHWnCQYWEVeUuWkAbBVxyxcIeEUn8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/lock-open.png
+SHA-256-Digest: qtnu52hA0XZ3cYTyFFkVhK6Lk1DJrFJ5cLWlxAjvPU8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/sk.js
+SHA-256-Digest: Z3G9I1uuE7RMlA7K5LkCskd/3HvAJTktadsCcia0IIo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ja.js
+SHA-256-Digest: k11oRqFzc4DH65HkmFBomX/QVo55WHm7nytAZyhWVns=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/de.js
+SHA-256-Digest: a1LBJujfQg8LVq2rP5H52YSCyRu1/JcbDsHaYjJD3WU=
+
+Name: META-INF/maven/org.eclipse.nebula/org.eclipse.nebula.widgets.richt
+ ext/pom.xml
+SHA-256-Digest: Rr+hoGatrRXY1LRjWpCxwQ2L73zz20sqAxt09MvpftQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/cop
+ yformatting/cursors/cursor-disabled.svg
+SHA-256-Digest: g71+S0T4nwEw8RJEjx5zGpmSTMUEX4ZRSaJeGyji1fU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/sv.js
+SHA-256-Digest: smY2yAG0f7BMWIJ7AFJi7arIUTwVhPQgKThVlwfxlyI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/angry_smile.png
+SHA-256-Digest: i4EQXktpaJTVENS3asqxFhznjv3wXtY+mYbhIr5rW8s=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/gu.js
+SHA-256-Digest: bshI3SpZaXxEZaXBUoujvMhm0IMe8UoJRPLlu4eA2Ig=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/ico
+ ns.png
+SHA-256-Digest: 4BAzv0OQZ7ZBmofJlWjactFe3HOz2I1Qe+uv7PiDss4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/ckeditor.js
+SHA-256-Digest: Y136vaDmbLqGMTYBlF9bB+l9lTNAUGCzAs8tgc9PlpE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/pt.js
+SHA-256-Digest: 31wq3+8XFdx/LNqUbdnRgIDA6eD78TTmsmcGrVYOMc8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ca.js
+SHA-256-Digest: 5+GI52sMGd3Gg1KRlFGVjcbf6Dluhxgh4WItkZuoq3k=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/nl.js
+SHA-256-Digest: HkRAvHEFhG/QXXgIVANyzUENYksM447KOcdo/TC8wfc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ku.js
+SHA-256-Digest: afWS1RfONu6dyCU1/SClCNCeTFqB0j3AvyzxfHD6ACk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/broken_heart.gif
+SHA-256-Digest: vXKdv9JXtkxfs/oW9i0h+BbkVwaj5O2bx5WCk6x2GdA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/heart.png
+SHA-256-Digest: IDii4LsMfpU2JCYdnPGYll7A7IcL7RNF6Aahk0Z09Sw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/sr-latn.js
+SHA-256-Digest: VCwZmfv/P0DMetZFEO0aEtmZn+1Csruefu6mrvMAHK0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/el.js
+SHA-256-Digest: U88sswIVrHkPpfts/aezeP0LwhP5gSxH8++uch8jDdw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/textfield.js
+SHA-256-Digest: nGI8I1YXFdzIqbHAgdTyI8yNhNkl7ShcZ/vLPMAXyAU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/de-ch.js
+SHA-256-Digest: eGpOEX0TCFoVXEEuggwA8wbcbyfYhjX66GPFH2nxTko=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/lv.js
+SHA-256-Digest: jprMgOyov9Pd036p0mnrRYbyiWPmfk3IstEsM2tqrPI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/sl.js
+SHA-256-Digest: 2AS57hzAIKFOfbmL2k4bKIs+28hAXv8X7EmfCfVjau0=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$5.class
+SHA-256-Digest: it97et02xH9ughbDowd4JbFTHOm2Gc4J2c9jptN5yFY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/uk.js
+SHA-256-Digest: E0yqE1jcu08WTfGIh07RCjEtIZRTx0Rek7DVd6ANckk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/cy.js
+SHA-256-Digest: eMt5S96wOeUq5/iIRO1sM7f6y7onC5WNBqArOF0lmvU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tem
+ plates/templates/images/template1.gif
+SHA-256-Digest: BS9kJorc6+HCObS17bl+v46/5vR6a91O2xfX414ugSo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/en-au.js
+SHA-256-Digest: 1kT/ZO9yKR3mdDndCAbn58x0TiB0oEF9k8jGaPKTQqc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/he.js
+SHA-256-Digest: yvTjF7ycyufp8UFnPPxYR6BxN8uaTT/aQiza7qYgaPk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/thumbs_up.gif
+SHA-256-Digest: igHTHFMGLo68jy8j/5w5jiHazpFsCKBaHdkC9kzJnzI=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$8.class
+SHA-256-Digest: dMlEyRRg9VMDIEW6FTDZ26PZXi63ip8efDFdeE166oM=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$KeyPressedFunct
+ ion.class
+SHA-256-Digest: SSoSRW/5HrnJPSKis7hMl36jl4wfmMfHQ7xodorUEJc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/fi.js
+SHA-256-Digest: 9/f0/Fs2T6ybDzeBUyh7u/Y1nmL2d+BmqjjYuwlgtDg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ja.js
+SHA-256-Digest: 3cSQpmw6Psx5METGaviWFbZSfeZ1j8yVcGOxvz0yhl4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/km.js
+SHA-256-Digest: KjxVMuDDPiXzYBL4DQQG6iFSvlZIqPrrhmrpGr0pgw4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/_translationstatus.txt
+SHA-256-Digest: GAmF3dGxsGoEEmKNIZcWHt+N3VJgXgoQD44NZU2leYA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/editor_ie.css
+SHA-256-Digest: ufGGGri7mc7T3YMTo80wqtkDUvorxwIWVlezFzTwirE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/abo
+ ut/dialogs/about.js
+SHA-256-Digest: sI78sQfN02mIMpjEXTGgvL7WmnE2MiTco5QdpbRidu4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/hu.js
+SHA-256-Digest: 5DkpFu9ZZJSYcB6yMgFB9yF8fyU9UgILin/jelm+HOE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/envelope.png
+SHA-256-Digest: dYweRFw0jxEPqUAfp64IpXaE2sWpw2LLDQ8B0Jv97W4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/sl.js
+SHA-256-Digest: 7HN8g+9yHXDyLdOMK21MxXWmXsab9URGdYtobEif4Lk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/fr.js
+SHA-256-Digest: Utpb6ZOTA/zFvVlCS+szIVmZN1shcMnXENrCCvtFydo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /dialogs/ciframe.html
+SHA-256-Digest: RDiega6EwtdoVvZmpiX7ddrkzXXm4b4NaowppnCo9xc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/dialog_ie.css
+SHA-256-Digest: 9Sq+HF68IosFw07ORD5N7hy9wkUQH9bY3mNz8Ldr1Cw=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellLabelProvider.clas
+ s
+SHA-256-Digest: jAAF2fMtBDrFGEGNSfjDUjbs5HuTWfpZHUJ7nUuo7nU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_div.png
+SHA-256-Digest: 2/Pe6jKiY0dO8VEu7ler3tBiEW/v3cDz69lA679+gL0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/oc.js
+SHA-256-Digest: ujBuVHYCmQGcZNvfV3SeHkpEpEkW5lu9t1SPMvqNoXE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/omg_smile.png
+SHA-256-Digest: DmTRWwiAoPN+uKJC/6tLrcEOE33FcJqT1JyyfAF89Sg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tem
+ plates/dialogs/templates.css
+SHA-256-Digest: /37IkUmDzdX1brqL0tioWdFJagZmMKVZLfrgLNDBDJ0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/images/hiddenfield.gif
+SHA-256-Digest: esp6E50TG0Qk4OZsySgRZaRSxO5u2IW2+uOfvYHQDiA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/abo
+ ut/dialogs/hidpi/logo_ckeditor.png
+SHA-256-Digest: RUERfSGHpRM0hFBPtKS+aBSEmDt0ZWHlseWRY/mj6aA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/hidpi/lock.png
+SHA-256-Digest: 5S72gJTJPyQNRbc/zEEuEGy8joPz1jwo508HcBQHCsI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/nb.js
+SHA-256-Digest: IJX/Azxd8p3KOfJcP+nWB9u9uJYbfgM9hgwlXoDOW9s=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/pt-br.js
+SHA-256-Digest: vPf4EQJpyMn8PuZCQQOyyuCKwG9Sv2syufESUD9dArQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/pt.js
+SHA-256-Digest: 9pwQ2ivrPrPBcUc3lPDiOaOd8QwNOZ+xfzduHAdWkBQ=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$6.class
+SHA-256-Digest: clGSMLAImTqiPk+tYN6vkK5261fHlHVpmZiitemtN+4=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/TextPaint
+ Instruction.class
+SHA-256-Digest: Pp1GT3FcbwsOyBLvGqKZpdbtgVF77Znga/i8u/rgt0o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/da.js
+SHA-256-Digest: V/cjSA5ILHCeSIJFLDde3m/sRshykiXx2PAQcx4l6/U=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/tt.js
+SHA-256-Digest: G0WHObFS5KKovNx7hdQK+Yj3Mwociaq3eA7PpkPacQo=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextPainter$4.class
+SHA-256-Digest: 8BmsWqdzgO1q/g9GGumChLINtOR4pI0LHjE2EC7s3E8=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$ModifyFunction.
+ class
+SHA-256-Digest: +Jkt2xeblIVkV/w8RgyM/DRMz1jhGk2l8A7QTgA+QVU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/en.js
+SHA-256-Digest: HBWKX05L/8fGvcLuTMZIEYo180zxs9A1aWuIwGVQNwA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/lightbulb.png
+SHA-256-Digest: gDZvNUBOrUPlZhruDxGnW6kVY405vS2UFVM4sthZd0M=
+
+Name: META-INF/maven/org.eclipse.nebula/org.eclipse.nebula.widgets.richt
+ ext/pom.properties
+SHA-256-Digest: PTU2Kdkh5pohMEy8hggoAHTRwsaV2FBTR5nWT2YBPDQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/sr.js
+SHA-256-Digest: NZHLxZT8Ai5k/zolkwjX23YubyOQ+LK5I+4BkAEskCQ=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$3.class
+SHA-256-Digest: pH83ueAvLB9waSGIyEXVJFVsx6R8IDaRmrGuNha52mc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/tongue_smile.png
+SHA-256-Digest: Aq8O7IQU75baBIy9/I1P4MfJEKQ0wnsZ0fXDBCvD8sc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/arrow.png
+SHA-256-Digest: yyG9TIq5eIOtz9oYsZI5VNxyijR4eaEdz63seAmsdoE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ug.js
+SHA-256-Digest: RGG0ySrEmrutR2Sr02Yo6JBDzsbCI1pflTArRhFi6qE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /dialogs/wsc.css
+SHA-256-Digest: OSTmk0EwRpvYSGVOrTimgdl5tP55eMWs/HJVnxIRuqM=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellEditor$5.class
+SHA-256-Digest: UJiuquw+ggev82pT2VkbZT+xpkXb4b8DGm7EuP/4hX4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/es.js
+SHA-256-Digest: VSbDOvj9WL8R5HNqZffFHOCwa7JkSZ14kh98kNmqWzc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/es-mx.js
+SHA-256-Digest: DEWQ8YzPCcI1GV54kLbKI7M8n8IvkukZLG6x5nOlCWs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tem
+ plates/templates/images/template2.gif
+SHA-256-Digest: o41V9+v+BfsSAYJ6md9O/MMZeXPTF6E72QIeSVigMEU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/editor_ie8.css
+SHA-256-Digest: V9qWvY0CXmokK+a/v3KjZTFH90qJ8v22hOzTlPJo7GY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/radio.js
+SHA-256-Digest: bNRlhuQv84xhBTnL4GLXyCLcmoUHF0fskPqC0CPSJD4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/cli
+ pboard/dialogs/paste.js
+SHA-256-Digest: w9xLxD1Q2m5ns0qQIJ1uIAMoImE7OhYCgFJdmi0QqXA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/hr.js
+SHA-256-Digest: MEUR6UOs22idaSedZxSHiSE2jcwxNPESJYhahy3xc1A=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/tt.js
+SHA-256-Digest: pOR5+ymfgaW0Kj1LGjsIZ5Oeaw7aXwxFgyt898Mc20o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tem
+ plates/templates/default.js
+SHA-256-Digest: 7JSRieDC4cuAuw7rR5zHGL+qyqF5p5VW4WlLjpMZw+0=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor.class
+SHA-256-Digest: P9Khfra+o1wg7NZZ6xAi17wFvm2sryQa98J8T1ZX3x0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/hu.js
+SHA-256-Digest: EeuRDunCEvTFKGgmFGCac+HG8X/M8KIBZ/ORCTOz6Dc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ja.js
+SHA-256-Digest: DaSQyPAs4FCxgBM4/nQvERjt51bBzZXgj8zypqVFgZs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/fr.js
+SHA-256-Digest: AE05zbiL9v7/A4l+RzqXA/UMG9Mz9YaMEJGXmpg56XM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/ifr
+ ame/images/placeholder.png
+SHA-256-Digest: gizW0H2K5JYnDfJgLrlHEibS8LnvbK0hlQFmhn+hMF0=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/ListInstr
+ uction.class
+SHA-256-Digest: aw8Ny4J733BoLN4IAPkOls6ohVV73/ZxkuaiEzfXDGg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/uk.js
+SHA-256-Digest: fj3ID0c+IDh3QQA8eNj2ZZ0F+VFXb/xw1dsuGx855Gw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ca.js
+SHA-256-Digest: QEeh4wQlSl+mrUVMnWc+i2Nvk696PDF9ltZh4LXmOB0=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$8.class
+SHA-256-Digest: dqVFBfS4iKW4826AqGDEoTcTaxQMS/PvHFRDeLFwLqQ=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/PaintInst
+ ruction.class
+SHA-256-Digest: U08iiOOKg2TsAHSVjZHOBLmdPoFakOi+c68Wzr9uITE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/fo.js
+SHA-256-Digest: oBlqY5eGGcmpp8+q/ndp9V1SvsD+nxQrGJXxxXrcLXU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/sad_smile.png
+SHA-256-Digest: sClR+jIxcmUQAgtABtsH7VBDo4HgIcnQnuPaqTQDBP8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/fi.js
+SHA-256-Digest: 4+nDCnR6pI0t8pzQ5dDVWSKZnYSCCv84YXlgBBzSfTA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/styles.js
+SHA-256-Digest: BIeUwYwfPClK6wPLlieZ/S3dKH6RBwG2IdyuYtAP3+c=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/km.js
+SHA-256-Digest: Hx1RJC14uiNoaXLTNHmEDSdEvwNLPBHnpLQdXUDtxQo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_h5.png
+SHA-256-Digest: t6M7FRO0uYYqu3j/TpvLMHvUpgZGqfhr1Ue/njKpqV8=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/LinePainter.class
+SHA-256-Digest: 6XZZMe4y68vuaA47JZjBNrFhER8CiYdIcIESdowtyNc=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$3$1.class
+SHA-256-Digest: aCUP9AzVgNQvGWRvtwcjHuCJcgt+cMyJihUZLoIe2Cw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/fla
+ sh/dialogs/flash.js
+SHA-256-Digest: FM1LqywAiijMC3pK8wGufniZsI6LxOpchQclTw245nk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/LICENSE.md
+SHA-256-Digest: TZAmuZcMhDSUymyC5mwnrZCmFvkqA6AuNrO09UHv6FQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ro.js
+SHA-256-Digest: kPxMylxoieEE1jna6kJCyMsYMKtC690lNaPRBH7Ow08=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/zh.js
+SHA-256-Digest: VDqAaH+uDSS/hdXq3/Sd3z7CMfcK4PWhXNbJrbUH85o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/et.js
+SHA-256-Digest: JeZ3kjbkO+Et5AtsPprGzyYvbd4ThjeMQdk8iw50CYk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/icons_hidpi.png
+SHA-256-Digest: sHKpKjvJ1WxZfXNJuvbgdKlhfV4+4Uon74Alke3uDlo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/de.js
+SHA-256-Digest: DiYVZYtcQ6187UAfF5suVU6j1fEVpY1JIeRImoNAGtk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/pl.js
+SHA-256-Digest: v64LLy/wAc9q1egFJPrjSnonN4HrS+CbO5wUqkKKL6Y=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/refresh.png
+SHA-256-Digest: oQLbS51YBAwlPQIJh79i9RYJFLuxuZzHAqbkZ7cv4lE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/thumbs_down.png
+SHA-256-Digest: o/O1AC18P2gZRXBJDndnJFkKiw+PoMAB+yLNXk8lZx8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ru.js
+SHA-256-Digest: sz06ErsaQ8ltP1Y3Y6oi96xQWFaB2/PDVxFmGYLe23A=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ro.js
+SHA-256-Digest: /J6Uf58G6B5nV2raJMcJG7qXb6zcH1Jw9QCgR1qYJRQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/en-gb.js
+SHA-256-Digest: geqGhu+/t+hy2lqg1YtzyaOrArqlY+XyuNF9pC3TEAQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/lin
+ k/dialogs/anchor.js
+SHA-256-Digest: xWEoXriUV12l0nDT/GO3YqbfJ9ZvGCWbs9unQzsudzQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/pl.js
+SHA-256-Digest: hbhecXWSo8CsnG0vbjgjOoEYtOkRawW4PZELdUvxO60=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/cy.js
+SHA-256-Digest: aDEACL3m6Q9/mIVUFqtg7olzPcxlMsBjD/i71W2FdDc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/div
+ /dialogs/div.js
+SHA-256-Digest: xP++I05RvNw4S7bP8mBTri4oRJI35oy9IT9HzPnv1/8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/hi.js
+SHA-256-Digest: VptiRfCV5IRqxJn5cR7gAxEpxIHEReC3bVzqcHsbPPk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/zh-cn.js
+SHA-256-Digest: yWBuV4o7XeILlqkp0ZC60SnPVK8mzE4irD5tGWXty2U=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/gl.js
+SHA-256-Digest: 88CkPV+nNdpvaChOh62sYt9HY8PsC/SnGMkzIZdGZvY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/tounge_smile.gif
+SHA-256-Digest: 028rpL/bBJsK7BJkdkm7iM0Pvk5F8TPAyNBrutvLLAE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/km.js
+SHA-256-Digest: iJK6Ey8/3F+mHzIDQC0EjgFMRO7nA8TapMWipzT1qDc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/devil_smile.png
+SHA-256-Digest: MW3F74mpHxWcrD7IpxzDQX5msiDZuY/pVHl2RK3IMQA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tem
+ plates/templates/images/template3.gif
+SHA-256-Digest: IyB73VjG0jq6GImUrvY/KitiRTZGqJ+yl7Snb/Wouj8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/id.js
+SHA-256-Digest: pwY3AaOIsLJ5y3Dp6HRUEgZqQ5lHxT3f1kF7teD1oEU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/fin
+ d/dialogs/find.js
+SHA-256-Digest: jWvGPwmxojc3lJZWUNnngtxFHkV2m8swV1DTlWs/fSI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /skins/moono-lisa/wsc.css
+SHA-256-Digest: aDVQf60j5bfJn8QsUzB5EJKufPjExeWQaSpu07Qazjw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/sq.js
+SHA-256-Digest: +hQB8O70ih8Jn40S2C3ngLwGtRv9jC3dgXshHMxpepU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/README.md
+SHA-256-Digest: za/TLr8Qm6XuCKu7+/Ry7JI8dKZKiNcV15WX6hUUFoU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ms.js
+SHA-256-Digest: PpVF9f2NJITXg4BuX5ryelmym54PxAG9l8dJZ4BpZ8c=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/kiss.gif
+SHA-256-Digest: BfwwULcYgJxH+RnG4QUks1V+KbnQ67yEO+zeKTovbhk=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditorConfiguration$2.
+ class
+SHA-256-Digest: mF/ZiB9WiFt2PJmfkps52fdI0y0rSNY1MF2oRoL0Aas=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/tr.js
+SHA-256-Digest: wAqxao+czokclGjiD8fB6LeFymDQXZKA8jfLLKL23f0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/eo.js
+SHA-256-Digest: /kF5wImf/aRHpvZ/xiu8PLG/yMYUEDOcIxH3u2CQARU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/fr-ca.js
+SHA-256-Digest: tHZopICjqEsWXRJ1smgdvBFLKr+dA3KAdiPH5x6e+HE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/si.js
+SHA-256-Digest: 3w1V8uCyN8KLWD7lYd4kvBcdCwCD6xLunaqe7hw+hxY=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditorConfiguration.cl
+ ass
+SHA-256-Digest: 1hyAO+5D9XzM+UkWFV2dqTe2lRqqLmz+Cf1nj/FW4sA=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$JavaExecutionSt
+ artedFunction.class
+SHA-256-Digest: gtmWQvVGO/osRvJrQxFX8wPC1pj/EbzV0IuXcmN/1aY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/textarea.js
+SHA-256-Digest: ZoVq07hpUk3vlUxe1M6BhTQA9drFRLWElYN5CuMACuE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/spinner.gif
+SHA-256-Digest: QgHju6G3Xtm49QWYbgUcCLiy+XTBOCMy0/kAuljHFTs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/hi.js
+SHA-256-Digest: sVbAAcd8xAiOM0dmJSFwtfH+33+A0UWGh6Ob9TBDRkM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/readme.md
+SHA-256-Digest: CAq3wicr2FaVUT5yYB45+zr16RGg+paEOPl2mpBDkzQ=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$5.class
+SHA-256-Digest: wKUlcc798uR6YInN59lGdkqoBt24OYg6w0z0MAixCWo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/en-au.
+ js
+SHA-256-Digest: xW1HkB5054g+kVAnV/loEfHUl5g/XCX9qb9Kmg/BS7s=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/sr-latn.js
+SHA-256-Digest: IxowPG1PTHUGSMxJWQPFmT8j7H87aPYxwcmjotat4+I=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/cry_smile.png
+SHA-256-Digest: RwOWjooCf8uq3nWVPesFmwBlE1tENdFx9xJ359qUwFI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_blockquote.png
+SHA-256-Digest: PeqKPMla6VbmbyziwUnw0nCQ2OmEr7PjIs7eAqzdSfw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/it.js
+SHA-256-Digest: q+uRjfHk9COxG8ViNiCsEE1o/62S3rHmG7CCMaopk1k=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ka.js
+SHA-256-Digest: HcsIaD3HFDQsbikWDSK/SeGXhWnc95I6ODDiB2lftos=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/FontMetri
+ csProvider.class
+SHA-256-Digest: WGAxtUIUf5X1saK9iHgmakfgXapSoXNwVmPBOiKtdCQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_h6.png
+SHA-256-Digest: YRm1lYChBL19tdJfJnMR03+S44uTyacNm6GRxerMQiY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ug.js
+SHA-256-Digest: 4H/x4k+7DgjNdhhYYAf1omu9dpGm82wJ6hKdEJBb7EE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/mn.js
+SHA-256-Digest: GT2VNkpBrUPuj/cSaNZOjIBi/MRVvv88TeQ1uD7YVCQ=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$6.class
+SHA-256-Digest: u5/ztBlOpur1gPOEZrH0EpSv0ol2ATuKdf/N/lV1smU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/vi.js
+SHA-256-Digest: 7/PCsArMFr59OQUJ9h5RQIM1/bgd0IB58sj1paZ0cNY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/it.js
+SHA-256-Digest: auvOgYd5qGBiRWJEzb9ltGw/SyNQ61F/fBwkEfywdzY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/eo.js
+SHA-256-Digest: j4Do90f76+m4mC172WeLBE4a1vsyZEfUSlsJ2w9EVmo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/teeth_smile.png
+SHA-256-Digest: ysXR5ObLUfFx/68iPRYTmX/E3SpTzbfDeC+qRmY5VJw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/az.js
+SHA-256-Digest: lQtDTXw4xtDi192CGM126AIjvzXwwmpJI5axQbyYoc8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/no.js
+SHA-256-Digest: yGcgLsK53zUHBrougcAJWB/jQWhcFIyIt14Iq2IHRsY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/cs.js
+SHA-256-Digest: I0qR9IfyPVP5DSIx7OmVBfi3l4nQI9kMUkP699lIKms=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/editor_gecko.css
+SHA-256-Digest: hnENj1+fz+XmupKUQmkFq6NMznmMvqG3ETWVKBMqZg0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/vi.js
+SHA-256-Digest: uC1J8EDM8ey9SnqKIJgPXGRD2CzFlBrhUht3dHvjE7A=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/col
+ ordialog/dialogs/colordialog.css
+SHA-256-Digest: 6LyhK2+KBnoWj9ufLrsyuIIJtmK9D/ism2bC42ZZ9JA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/he.js
+SHA-256-Digest: kQz1GQ/FaPuWWujk7IylmZkVZrZ5ONC88oh5dM5z6FE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_h3.png
+SHA-256-Digest: U1oOckOSYSZR2h5b2PCQiHx7GYzDulTnHftk5AtAWIE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/wink_smile.gif
+SHA-256-Digest: 1lVOwYj84fQ9JjcFh7axUfXuz7Wb4KBAFr89/k70N1c=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/sr-lat
+ n.js
+SHA-256-Digest: ixM9+3ROADLn7iyv31IaRWKn8gCoJCB6eRMcyqUefOA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/es.js
+SHA-256-Digest: bSgrI/vBJr4A07at+rJglnq/eFnHWzHNpNBRmAIXW+s=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/bg.js
+SHA-256-Digest: l5AMqW1Y1zvbs57J5JbBiFgrXV5IQG8FSFKYZsrQiQY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/nb.js
+SHA-256-Digest: HhfvTrByE9IcJVrMfxcz2pgy9cBLS8VUX5s6M2j4NxQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/whatchutalkingabout_smile.png
+SHA-256-Digest: Wub627UPJBhLz8qzP9nRvzxWRU7irL3Qt4xWqzal0dw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/angry_smile.gif
+SHA-256-Digest: 2qSLPgNoKtadhAzIhGUSj8qcwMFZ/Q/N2sJojwXYKys=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/pas
+ tefromword/filter/default.js
+SHA-256-Digest: v/Z7/QHVnsif2vhpBUhL3MmZYvE/l76XD+lPRYpArYM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/fr-ca.
+ js
+SHA-256-Digest: 3d7u+Euxhq4uA9dGraxL4hjbAKC/UXJ6HvS8HSw+HJE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/dialogs/dialog.css
+SHA-256-Digest: 8vdCo6YIbXOcAKcDcbpMaNurT/JF0vwDm/mxflgCKjo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/bn.js
+SHA-256-Digest: Q/9BWBcvVmgvPudeEHKBo0Z78GAqNeE7LhO0EqVkIUw=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/ResourceHelper$1.class
+SHA-256-Digest: /nox8EAoGUdPstBeVDUO2x0cnsyP2SQhqs36qIsbYN8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/vi.js
+SHA-256-Digest: Re0UVUfkR4LEjiX1ZiLo0f256rEnN+quvjlqMy8aZr4=
+
+Name: org/eclipse/nebula/widgets/richtext/toolbar/ToolbarButton.class
+SHA-256-Digest: Mr0cEhIJUH7H0JZUj82PwwBmlvRMN48MDzN9pq4hbe8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/omg_smile.gif
+SHA-256-Digest: +EGI/9aBrtCJe6bo+u/0GuKc5Vc9NKP4ZFcNKmCb9l8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/lock.png
+SHA-256-Digest: ceP/jPvc0dkQGTIykeszmjbikzluXbYhWptZwZ1dGdk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sca
+ yt/dialogs/toolbar.css
+SHA-256-Digest: /TdJuumNF+PJfpZmB50or803SKcQ20em2O3R59EuEts=
+
+Name: org/eclipse/nebula/widgets/richtext/ScalingHelper.class
+SHA-256-Digest: oUJEbNewPuGovhopWQY3y3kAm8jyIA1mv+cHokML7hg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/abo
+ ut/dialogs/logo_ckeditor.png
+SHA-256-Digest: cfK0E47+C5lBiVW9itj3UvtLXVqnPbU56q7wYOvMUvM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/tr.js
+SHA-256-Digest: SKrNGcJN+ZTmJJOSnaTiAXq/WFY/ww5tS/gS8KwHHLo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/cs.js
+SHA-256-Digest: BVpTjhXZlotI0NG4Ac9x9i/5LdBlKa2/unHFflORQUk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/fr-ca.js
+SHA-256-Digest: NraB3EzVXrQ54v2bQQXkpHQD9CFa6nskc84iMJu+H5M=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellEditor.class
+SHA-256-Digest: TPb0dv3ptkQCM6oKbsQY53nXXfr9IlfJmqXLzPnSR5c=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_pre.png
+SHA-256-Digest: tbcylUHLAn3TkVwPbO+pElWAeOj2kbvHZpwZ0LOvrNI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/de-ch.
+ js
+SHA-256-Digest: /wz5W/QXz8n+rv4MZOKiJLDnAJ79UEzTDkJj8A4tfyg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/af.js
+SHA-256-Digest: xNqEfZA1IAZz6sVFDUz9Iu2iE/nPymLv/WTHQiW1Th8=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellEditor$2.class
+SHA-256-Digest: 06O96u1QaRk5HSv1ZEOhvDoewOKYGhIkmP4GiYFRW7Q=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/lin
+ k/images/anchor.png
+SHA-256-Digest: J52HeVcBF41lGUeSPHFyH8fdgkf1zLFJ6f4zCFOWMu4=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/eu.js
+SHA-256-Digest: g/9W9Y0l6B3tBpjLoh/twlWco2HAr+6pnCyrCalbon8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ku.js
+SHA-256-Digest: b4E4T7V4nY+PfCqNdFU+1ScQ8IVZybNycg84mc11z10=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/EntityReplacer.class
+SHA-256-Digest: fv1U4lLlSQJxQGwQ3+ODH+kpE9WnO4YnhryC3+Hgx6Y=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/thumbs_down.gif
+SHA-256-Digest: 8CBt2CpkqTUM5h3eyq0NG1WtgLj/buYojlHFhXUBzLo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/sl.js
+SHA-256-Digest: cUNSZESJrFUXye32Uwupx7C7aEXjH+4QaIXM99qWRMs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/sq.js
+SHA-256-Digest: CT9cr93Lz+EawuUs19RN3pFdK0K1cXwsYiKMGrRQdnw=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$KeyReleasedFunc
+ tion.class
+SHA-256-Digest: fN/NbSQUyxYPNXO0cgtSkAPboY5wRxZZYIRm5GBINEg=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellEditor$3.class
+SHA-256-Digest: 8sPKczJXpSL5l2GAaFq7bNj5Y+DZzvp9Ppx41XHzJoY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/lv.js
+SHA-256-Digest: 1KdmudPSpLPw5eaWPq2tbUY+yHRbV+PJF+PBnT9oGuA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/fa.js
+SHA-256-Digest: u9nvn7ycGT2ie1WPyzcInhtMhe/NIyc6OuLSP0BDazE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/bg.js
+SHA-256-Digest: LmK2rI460az9iA4zbE0sMSo7Jn/bg7zsm1SXHOMjhYg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/icons.png
+SHA-256-Digest: l82qci3/qFNendtUTVSOvHMyOJChGBtTyI1kDzKJEZo=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$3$3.class
+SHA-256-Digest: IS/a4hXDYBgTio4qGSy9fuN79PkvCzuSI9jXYyF2neA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/tr.js
+SHA-256-Digest: rhFz6cst/qHSw9nblEeNLbFHg3/Nz3sT6VaKroMbgUQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/regular_smile.png
+SHA-256-Digest: Ns212+8roqJgVMr16muPrzQFHN1TG8mqHv4mENSwnsU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/sho
+ wblocks/images/block_h4.png
+SHA-256-Digest: kiJP5m1K00J5FSYhqOPkNFShfuz4YnghyaqlRhUvqR0=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/TagProcessingState.cla
+ ss
+SHA-256-Digest: V3f2Wk2jki3mHrBHTTAYrTCfYpmk2LmGQmqWvX6BQFg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/el.js
+SHA-256-Digest: uuZriG0ZJ33Uilvr3zRUkDFBJrQ+8grifqHNXlQf6rY=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextCellEditor$4.class
+SHA-256-Digest: LxNmrg6b8wbGkTRU4rZ9UDxm7XYJ4tltonRyfkEz0Yo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/oc.js
+SHA-256-Digest: 88jvKp63kx6WAZ/PZAhJMGLjOCrTkkjXMPfpqn4BKBo=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/mk.js
+SHA-256-Digest: AwOXfgZIjgVagdG1eaZsccLrf7+vt5Msv8HLj5KmWpY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/af.js
+SHA-256-Digest: lTnFieIyoEiDY908cFmI2nRWUD+MpQAC7tnQkOu12MM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/pre
+ view/preview.html
+SHA-256-Digest: FKs2XY7H/ikEclAJ3iapbI/atBkuO/Q+fSIHXhKHLzQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/embaressed_smile.gif
+SHA-256-Digest: XFmxcNpR5Ysmk3HCcMK/AONkdUGZSb6lIqDpRaaL/Qc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/hidpi/close.png
+SHA-256-Digest: HQ01A0+l4oqI9VcJX0jBlqAbK3HBYR+MBKG+gIoBJac=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/onc
+ hange/docs/install.html
+SHA-256-Digest: DYEPcwtCM3YCBr0g0j0iiXQOgINL9HhpQANtTALC2+Y=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/ResetPara
+ graphInstruction.class
+SHA-256-Digest: MZI6DznnM6pwYIJ9x65veg12u+FIHMNV6FQ4TVjFPZY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/cop
+ yformatting/styles/copyformatting.css
+SHA-256-Digest: 2CvtpboL33D3DcR0l2kvkSJJeHpUNk3I5IAEclX4WlM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/envelope.gif
+SHA-256-Digest: slqWRULXj+j4eULkNHeaGB4tOFuBYjjJYXmvyI6lvH0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/ico
+ ns_hidpi.png
+SHA-256-Digest: +g6aEMFH4MdGZFaTvrWbX4U3Zvcfn2Gu0LBe3IarxVc=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/DefaultEntityReplacer.
+ class
+SHA-256-Digest: RjJ0lduj11cfqFC0A2/ZhKvVWzedjy5AwC7xfBbGw38=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/shades_smile.png
+SHA-256-Digest: INNHwPnCCwcWnc8Ola5Gv27mYZtB6B+nJ0BIs7VK3nM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/tab
+ letools/dialogs/tableCell.js
+SHA-256-Digest: DMCPc6sElSaCf50zWDSDNjXDqdZFMq/hFt/8AOKmXh4=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$1.class
+SHA-256-Digest: gvrnN/avIlG43Une9dxKvxyAgO/2ygAjquuJh+D71vc=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/SpanStyle
+ PaintInstruction.class
+SHA-256-Digest: antzksmk5nnJqJrn6h4ePFlepBsL8CADb0oUHSgm+Xw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/pt.js
+SHA-256-Digest: PEzpUhaRE0+EX6ZnSXulgsQ/uF/PqrZLq7NrZeoIgfE=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/th.js
+SHA-256-Digest: Ag4j22OhlJNmHRQ05yfnTUK8oN1ma0M1d96QUcoSi6o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/oc.js
+SHA-256-Digest: iLZIfF1e8OhBBkWaQwUbsid+2lV/w2ctpDMZUYT1XFs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/es-mx.
+ js
+SHA-256-Digest: 62LqwL/NoWPhK9FkyGIO5n3M0Rvhd4AzCo+fhXcsV9M=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/lt.js
+SHA-256-Digest: jsQVxFt/FUCbzOcj5FuQFG4rKlY18tCym1KlUUYMFfc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/sq.js
+SHA-256-Digest: C+GxHTkaIOcm019f7zfDcXi/+jz9YG/SEuyHBi0p6GM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/hiddenfield.js
+SHA-256-Digest: qNQ8JHoIZlfC4QIme0RdM1Fln2YYrmZv9V7H9yorMAI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/dialog_iequirks.css
+SHA-256-Digest: Qeul7oqVs9Hvg6j2+ndeD+gZakUx+Mzp+QlLp2ghT0w=
+
+Name: org/eclipse/nebula/widgets/richtext/toolbar/JavaCallbackListener.c
+ lass
+SHA-256-Digest: G2bLWVB1SpcQCETHwLxUoyohAoU1xAXA0GPj4J7OkPg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/gu.js
+SHA-256-Digest: H/WJFDQ71Or+wXgztcxxLAZpqp5mqebBdi+i9oaa0Oc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/ar.js
+SHA-256-Digest: r4nh57N/TN6/hvTOisyzRYCJLThNEUlvzAoZgHEcgj8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/embarrassed_smile.png
+SHA-256-Digest: 2B0jZSsssv4qIkkMipX5QAwvegEF49CtFNOxhB28fD0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/sad_smile.gif
+SHA-256-Digest: nDiWD8y8LLpkW5I38w+ZUlPleZyAqCjsKt5dJx572cM=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/th.js
+SHA-256-Digest: UDWwCW66LWU3rWrPPIj7uMt9zHFQfJS/BLOYKS7USa8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/el.js
+SHA-256-Digest: IdOqy4sN8SgHxHM+8i8m8rojtBn1FdEg4al22dHyjjQ=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/sr.js
+SHA-256-Digest: oxEzyYGZminSkcW1maFDgi50IGLuElJDQ5msQT8KLxA=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/da.js
+SHA-256-Digest: nGdzxmql6SlMNmLT1s9MXK9RlNehbja2GIOWLli1ous=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/adapters/jq
+ uery.js
+SHA-256-Digest: rCULHSpqGpZcfubA5M8nBMjo54AVywaucMg7g5cSKNs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/he.js
+SHA-256-Digest: zQ+wmSHCiqrBXJBaxfiH158ktuaK3JEG2ToBBaOoLC8=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/nb.js
+SHA-256-Digest: CeZ3sUoWYGpHU8iUSxlJdNKTVY/ElzSYhcF8e25eQ/Q=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/ResourceHelper$2.class
+SHA-256-Digest: bdd0vvh0maKd6dGGRu3ViJY6PtBWFhlWKwDK2o7VbVc=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/ko.js
+SHA-256-Digest: bg/3GlFiXC6FxHHIriDOZ/5EVA6APoNPGga0NUyt1zU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/thumbs_up.png
+SHA-256-Digest: Dp1Ksv7EHjCnFL8LOr8rQqk2I8/OnhPv7tdlKd1eZkw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/a11
+ yhelp/dialogs/lang/nl.js
+SHA-256-Digest: WRxU5BNFPFFQccZ3tddHDs0FhUsU2KQdzpZBwtlHxKY=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/lin
+ k/images/hidpi/anchor.png
+SHA-256-Digest: 9fClS9HoVde0Q44wPfpqj/VKmf2B4o3DIYHBQYff1zk=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/ItalicPai
+ ntInstruction.class
+SHA-256-Digest: 44P8EsICGZGpOtQ1UbyFdaZ9ndecHaEuTN8fLVofCdA=
+
+Name: about.html
+SHA-256-Digest: JouPMZ8Lm7S52k0yfT8r84D/iDo3Gv9MiuZqFGiTzqw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/lang/fi.js
+SHA-256-Digest: NDcDNZfebDkVrsCwaert1A1YLArWE1sy3Kpmy2FjFIs=
+
+Name: org/eclipse/nebula/widgets/richtext/RichTextEditor$3$4.class
+SHA-256-Digest: YjxN3CCZglTYAPdobpIAME01kA5ctnbknp6e3YlIKXk=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/pag
+ ebreak/images/pagebreak.gif
+SHA-256-Digest: hCWRR4AISQ5K4+l5MVLfSqpHJJaA4dtUw7Lt9dbsWvs=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/for
+ ms/dialogs/button.js
+SHA-256-Digest: t1987Cajlip7iTmxHM1b9UrvgZ+5ghLfwqGPLRVmC84=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/heart.gif
+SHA-256-Digest: ap0V+uwmPEEERZRIzrRaGXv6cEiuiQQuSr00w/kuItI=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/nl.js
+SHA-256-Digest: mSnOQxTgPfWAlmhipQnjiLVHxAFKSaS8OMWfTcrI99I=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/wsc
+ /dialogs/wsc.js
+SHA-256-Digest: BnUNeXq/gBF405cbAulo0jYV2nuIl7NrnK9G8/hlWAA=
+
+Name: org/eclipse/nebula/widgets/richtext/painter/instructions/ResetFont
+ PaintInstruction.class
+SHA-256-Digest: 5i3vpAglpEj8u5v+mrLRUqVInCwEI/1vazq4klLqZGw=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/lt.js
+SHA-256-Digest: pJi9vjXrnaQL7L0eVnFyW8RbqKzB1FlYtfNdq6SF5b0=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/skins/moono
+ -lisa/images/close.png
+SHA-256-Digest: Ae3WwTBAcLu2fTPdnABlLToXG1fgO+H+Pd2kohC0qXg=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/ar.js
+SHA-256-Digest: Y7fXfoRY7da1BcfHhATdkwVssRA2lT3sBKyz9Pt3r4o=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/smi
+ ley/images/tongue_smile.gif
+SHA-256-Digest: /wGAi57yi8xrFBnD/V+9Fe9tQHcWxwxWyFavlwIQbhU=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/ifr
+ ame/dialogs/iframe.js
+SHA-256-Digest: C8GVcS2DaW4zoOpFRwTYLuEUI64SbDIePRjneslmc34=
+
+Name: org/eclipse/nebula/widgets/richtext/resources/ckeditor/plugins/spe
+ cialchar/dialogs/lang/en-gb.js
+SHA-256-Digest: 5iPjiLTqH2wfTHvAfpriyisSJPzszt6HbPMFRN1ST1k=
+

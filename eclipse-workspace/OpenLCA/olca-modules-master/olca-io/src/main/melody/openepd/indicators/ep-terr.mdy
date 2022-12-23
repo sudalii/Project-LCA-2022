@@ -1,0 +1,24 @@
+let .eutrophication = {
+  <boundary>;
+  "eutrophication";
+  <boundary>;
+}
+
+let .ep = {
+  <boundary>;
+  "ep";
+  <boundary>;
+}
+
+ahead {
+  any of <char>;
+  "terr";
+  option of "estrial";
+}
+
+any of <char>;
+either {
+  .eutrophication;
+  .ep;
+}
+any of <char>;

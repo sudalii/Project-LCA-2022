@@ -1,0 +1,26 @@
+Signature-Version: 1.0
+Created-By: 11.0.11 (AdoptOpenJDK)
+SHA-256-Digest-Manifest: DwCAxcTMLMwM11CNNdGEOCM8EBS3g48/t415v+Rxpq8=
+SHA-256-Digest-Manifest-Main-Attributes: VY78hpPLQQcQWsSBC6hJVVQI+2YQxvr
+ V/A0xv/y73/0=
+
+Name: META-INF/maven/org.eclipse.emf.features/org.eclipse.emf.common.ui/
+ pom.xml
+SHA-256-Digest: i5rKkVr3Qfw0dbrwUCV743n5k0M8r3P3sHWqG4EuT64=
+
+Name: epl-2.0.html
+SHA-256-Digest: AED4dAeGrOY0hc5nW8gJmyCMPlZ5rTF8ACL9TK1dx/Q=
+
+Name: feature.xml
+SHA-256-Digest: LiPlEBnDDdjLCC3M+maFF5cmj1wHZtolHvLH39n9uOA=
+
+Name: feature.properties
+SHA-256-Digest: 6kDhCGvHtRRrTlk7u0wlzHPh/7IVb7q7Hpg/Mv1zG9g=
+
+Name: license.html
+SHA-256-Digest: zVM/vJgU0kRLZDQ3qmgeRgMh5WQ38NzJh/8vJedLd0s=
+
+Name: META-INF/maven/org.eclipse.emf.features/org.eclipse.emf.common.ui/
+ pom.properties
+SHA-256-Digest: gp4jRbWVSaHc00j8A8VG5OgXGYMvYg6J5jm4WDGnLOY=
+

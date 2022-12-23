@@ -1,0 +1,49 @@
+물 0.0002			막대그래프 or 원형(도넛)으로 CO2, 메탄 비율 표현
+전기 0.00045
+PW 1.2
+
+input
+Calcium carbonate
+bauxite
+Sodium chloride, in ground
+uranium, in ground
+Coal, hard
+Oil, crude, in ground
+Natural gas leakage
+
+output
+zinc
+manganese
+sulfate
+dust
+Oils, unspecified
+Dissolved solids
+Waste, unspecified
+Sulfur oxides
+Waste, industrial 2.4546
+Chloride
+Nitrogen oxides
+Hydrocarbons, unspecified
+Methane, bromotrifluoro-, Halon 1301
+Carbon monoxide
+Nitrous oxide (아산화질소, N2O)
+SS
+VOC,
+COD
+
+Methane의 Category를 unspecified -> high population density로 바꿈.
+특성화계수는 동일하기 때문에 high population density만 128로 조정하여 비교
+
+1kg
+0.005815107293 (origin)
+0.005815107209 (제외한것)
+
+1000kg
+5.815107293151 (origin)
+6.228043162009 (위의 항목 제외 & Methane 특성화계수 28 -> 128) 93.36%
+6.640979114749 (위의 항목 제외 & Methane 특성화계수 28 -> 228) 87.56%
+
+
+A/B*100
+5.815107293151/5.732520018722*100
+

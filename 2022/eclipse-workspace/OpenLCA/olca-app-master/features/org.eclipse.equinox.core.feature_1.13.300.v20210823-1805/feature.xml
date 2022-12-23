@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.equinox.core.feature"
+      label="%featureName"
+      version="1.13.300.v20210823-1805"
+      provider-name="%providerName">
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.osgi"
+         download-size="1427"
+         install-size="3051"
+         version="3.17.0.v20210823-1805"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.osgi.services"
+         download-size="126"
+         install-size="201"
+         version="3.10.200.v20210723-0643"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.osgi.util"
+         download-size="72"
+         install-size="148"
+         version="3.6.100.v20210723-1119"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.common"
+         download-size="139"
+         install-size="269"
+         version="3.15.0.v20210518-0604"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.registry"
+         download-size="194"
+         install-size="400"
+         version="3.11.0.v20210723-1953"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.simpleconfigurator"
+         download-size="45"
+         install-size="85"
+         version="1.4.0.v20210315-2228"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.app"
+         download-size="89"
+         install-size="176"
+         version="1.6.0.v20210723-1130"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.osgi.compatibility.state"
+         download-size="249"
+         install-size="596"
+         version="1.2.500.v20210730-0750"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.equinox.console"
+         download-size="126"
+         install-size="258"
+         version="1.4.400.v20210602-1312"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.felix.gogo.command"
+         download-size="52"
+         install-size="106"
+         version="1.1.2.v20210111-1007"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.felix.gogo.runtime"
+         download-size="219"
+         install-size="422"
+         version="1.1.4.v20210111-1007"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.felix.gogo.shell"
+         download-size="69"
+         install-size="138"
+         version="1.1.4.v20210111-1007"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.felix.scr"
+         download-size="411"
+         install-size="960"
+         version="2.1.24.v20200924-1939"
+         unpack="false"/>
+
+</feature>
