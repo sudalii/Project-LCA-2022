@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                
+    
+    
+    <wb-module deploy-name="webConnect-0.0.1-SNAPSHOT">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+                                
+        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                                
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/webapp/WEB-INF/lib"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+        <dependent-module archiveName="olca-formula-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-formula/olca-formula">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="npy-0.0.3.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/npy-master/npy-master">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-native-0.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-native/olca-native">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-ecospold-1-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-ecospold-1/olca-ecospold-1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-ilcd-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-ilcd/olca-ilcd">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-io-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-io/olca-io">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-core-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-core/olca-core">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-ecospold-2-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-ecospold-2/olca-ecospold-2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-ipc-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-ipc/olca-ipc">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="olca-git-2.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/olca-git/olca-git">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                                
+        
+        
+        <property name="context-root" value="webConnect"/>
+                                
+        
+        
+        <property name="java-output-path" value="/webConnect/build/classes"/>
+                            
+    
+    
+    </wb-module>
+            
+
+
+</project-modules>

@@ -1,0 +1,32 @@
+
+let .code = {
+  either {
+    <start>;
+    some of not <word>;
+  }
+  "pocp";
+  either {
+    <end>;
+    some of not <word>;
+  }
+}
+
+let .formation = {
+  ahead {
+      any of <char>;
+      "ozone";
+    }
+  ahead {
+    any of <char>;
+    either {
+      "formation";
+      "creation";
+    }
+  }
+  any of <char>;
+}
+
+either {
+  .formation;
+  .code;
+}
